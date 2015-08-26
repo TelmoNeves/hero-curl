@@ -1,6 +1,6 @@
 <?php
 	
-//Boneless fakie out ollie hole rock and roll. Japan air hurricane Andy Levy betty tail. Slappy flail Mike Taylor pop shove-it speed wobbles. Quarter pipe hurricane hardware steps. Boardslide skate or die coper slap maxwell. Coper switch Mike Taylor gap rocket air. Wallows kick-nose coping face plant trucks. Invert hang-up casper Vans stalefish. Manual Bonite downhill durometer aerial. Crail grab 360 acid drop pogo. Layback cess slide Future Primitive Tracker nosepicker. 360 spine backside nose bump. 
+//Concave Rune Glifberg nose slide rail slide downhill. Japan air rails dude Bullet 66 hurricane slam. Shoveit gap goofy footed nose bump full-cab. 50-50 full-cab camel back Skateboarder hand rail face plant. Jim Phillips fakie fast plant airwalk front foot impossible risers. Chris Livingston flail rock and roll casper slide baseplate handplant. Boardslide downhill handplant ollie hole kickturn. Ledge Guy Mariano birdie tuna-flip half-cab slap maxwell. Mute-air method air Matt Hensley bank kickflip manual. Ledge skater indy grab shinner Operation Ivy quarter pipe. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Boneless fakie out ollie hole rock and roll. Japan air hurricane Andy Levy betty tail. Slappy flail Mike Taylor pop shove-it speed wobbles. Quarter pipe hurricane hardware steps. Boardslide skate or die coper slap maxwell. Coper switch Mike Taylor gap rocket air. Wallows kick-nose coping face plant trucks. Invert hang-up casper Vans stalefish. Manual Bonite downhill durometer aerial. Crail grab 360 acid drop pogo. Layback cess slide Future Primitive Tracker nosepicker. 360 spine backside nose bump. 
+//Concave Rune Glifberg nose slide rail slide downhill. Japan air rails dude Bullet 66 hurricane slam. Shoveit gap goofy footed nose bump full-cab. 50-50 full-cab camel back Skateboarder hand rail face plant. Jim Phillips fakie fast plant airwalk front foot impossible risers. Chris Livingston flail rock and roll casper slide baseplate handplant. Boardslide downhill handplant ollie hole kickturn. Ledge Guy Mariano birdie tuna-flip half-cab slap maxwell. Mute-air method air Matt Hensley bank kickflip manual. Ledge skater indy grab shinner Operation Ivy quarter pipe. 
 
 ?>
