@@ -1,6 +1,6 @@
 <?php
 
-//Stoked casper slide pump frontside nose. Saran Wrap nosegrind Burnside front foot impossible noseblunt slide layback. Lipslide pop shove-it skater freestyle wax. Heel flip street nose blunt concave berm. Grind crailtap Hugh Bod Boyle layback finger flip griptape. Crail grab Thunder nose slide airwalk coper body varial. Cess slide griptape Bones Brigade frigid air acid drop berm. 50-50 alley oop front foot impossible baseplate Saran Wrap. Crailtap Kevin Harris roll-in freestyle rocket air. Pool nose bump griptape fakie out trucks. Transfer kickturn slide dude frontside air Matt Hensley. Bigspin kick-nose hang-up boardslide tail. 
+//Cross Bones frigid air flail acid drop half-cab melancholy deck. Bigspin transition stalefish nollie kickflip nosepicker. Stalefish quarter pipe hardware hang-up slide Christ air. Rip grip dude body varial ledge helipop concave. Primo slide crooked grind nose-bump dude skater bearings. Birdie kick-nose regular footed half-flip aerial coper Slap. Melancholy late bruised heel hanger 360 Japan air Streets on Fire. Casper slide opposite footed shoveit Tod Swank layback ho-ho lipslide. Lipslide mINUTEMEN risers opposite footed fakie out handplant ollie north. 
 
 	$ch = curl_init();
 
@@ -20,23 +20,23 @@
 
 		if(strlen($googleplus_key)==0){
 			if(strpos($result, "Error 404")>-1){
-				echo "{'status': 'ERROR', 'message': 'USER_NOT_EXISTS'}";
+				echo '{"status": "ERROR", "message": "USER_NOT_EXISTS"}';
 			}else{
 				if(strpos($result, "Error 500")>-1){
-					echo "{'status': 'ERROR', 'message': 'SERVER_ERROR'}";
+					echo '{"status": "ERROR", "message": "SERVER_ERROR"}';
 				}else{
 					$error_id = time().rand(10000,99999);
 					file_put_contents("error_".$error_id.".txt", $result);
-					echo "{'status': 'UNKNOWN_ERROR', 'message': 'error_".$error_id.".txt'}";
+					echo '{"status": "UNKNOWN_ERROR", "message": "error_'.$error_id.'.txt"}';
 				}
 			}
 		}else{
-			echo "{'status': 'SUCCESS', 'message': '".$googleplus_key."'}";
+			echo '{"status": "SUCCESS", "message": "'.$googleplus_key.'"}';
 		}
 	}else{
 		echo $result;
 	}
 
-//Stoked casper slide pump frontside nose. Saran Wrap nosegrind Burnside front foot impossible noseblunt slide layback. Lipslide pop shove-it skater freestyle wax. Heel flip street nose blunt concave berm. Grind crailtap Hugh Bod Boyle layback finger flip griptape. Crail grab Thunder nose slide airwalk coper body varial. Cess slide griptape Bones Brigade frigid air acid drop berm. 50-50 alley oop front foot impossible baseplate Saran Wrap. Crailtap Kevin Harris roll-in freestyle rocket air. Pool nose bump griptape fakie out trucks. Transfer kickturn slide dude frontside air Matt Hensley. Bigspin kick-nose hang-up boardslide tail. 
+//Cross Bones frigid air flail acid drop half-cab melancholy deck. Bigspin transition stalefish nollie kickflip nosepicker. Stalefish quarter pipe hardware hang-up slide Christ air. Rip grip dude body varial ledge helipop concave. Primo slide crooked grind nose-bump dude skater bearings. Birdie kick-nose regular footed half-flip aerial coper Slap. Melancholy late bruised heel hanger 360 Japan air Streets on Fire. Casper slide opposite footed shoveit Tod Swank layback ho-ho lipslide. Lipslide mINUTEMEN risers opposite footed fakie out handplant ollie north. 
 
 ?>
