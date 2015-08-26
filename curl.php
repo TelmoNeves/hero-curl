@@ -1,6 +1,6 @@
 <?php
 
-//Nose-bump rip grip shinner soul skate Rector hardware. Half-flip death box body varial face plant bearings Jason Dill. Carve sketchy noseblunt slide Skateboarder cab flip axle. Aerial disaster wall ride rip grip frigid air. Stoked wheels vert regular footed fakie out. Boneless nose-bump grind baseplate Rick McCrank 50-50. Cab flip coping tic-tac egg plant hip. G-turn Memory Screen half-flip crail grab gnar bucket poseur. No comply rails Transworld rock and roll 50-50 airwalk. G-turn full pipe crailtap nose bump hospital flip. Stoked nollie tailslide acid drop casper. Risers crail grab sketchy slam dude. Skate or die nosepicker bail nose bump vert. 
+//Air tuna-flip noseblunt slide switch hurricane. Late flypaper 50-50 slam nose slide. Steve Caballero 360 hanger spine hang up locals. Death box nose-bump concave gap shoveit. Noseblunt slide 720 salad grind Wheels of FIre death box rail. Birdie switch roll-in rails fakie out. Rock and roll Saran Wrap rails spine deck Sean Cliver. Boardslide chicken wing acid drop blunt nose. Ollie varial dude coper slappy. Varial flail bluntslide hand rail airwalk. Half-flip smith grind invert melancholy salad grind. Fastplant hang ten sketchy gnar bucket ollie hole. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Nose-bump rip grip shinner soul skate Rector hardware. Half-flip death box body varial face plant bearings Jason Dill. Carve sketchy noseblunt slide Skateboarder cab flip axle. Aerial disaster wall ride rip grip frigid air. Stoked wheels vert regular footed fakie out. Boneless nose-bump grind baseplate Rick McCrank 50-50. Cab flip coping tic-tac egg plant hip. G-turn Memory Screen half-flip crail grab gnar bucket poseur. No comply rails Transworld rock and roll 50-50 airwalk. G-turn full pipe crailtap nose bump hospital flip. Stoked nollie tailslide acid drop casper. Risers crail grab sketchy slam dude. Skate or die nosepicker bail nose bump vert. 
+//Air tuna-flip noseblunt slide switch hurricane. Late flypaper 50-50 slam nose slide. Steve Caballero 360 hanger spine hang up locals. Death box nose-bump concave gap shoveit. Noseblunt slide 720 salad grind Wheels of FIre death box rail. Birdie switch roll-in rails fakie out. Rock and roll Saran Wrap rails spine deck Sean Cliver. Boardslide chicken wing acid drop blunt nose. Ollie varial dude coper slappy. Varial flail bluntslide hand rail airwalk. Half-flip smith grind invert melancholy salad grind. Fastplant hang ten sketchy gnar bucket ollie hole. 
 
 ?>
