@@ -1,6 +1,6 @@
 <?php
 	
-//Acid drop kingpin Mike Taylor hip ollie north. Hang up hurricane boneless deck Sidewalk Surfer. Dude sick 360 rock and roll. Pump freestyle noseblunt slide pressure flip. Hurricane Jason Wilson boneless durometer yeah. Switch axle set 270 dude. Rocket air hard flip salad grind Jeff Phillips noseblunt slide. Nose concave method air flail. Claus Grabke frontside gnarly crooked grind roll-in. Steve Alba fakie crail slide no comply lien air. Skate or die risers noseblunt slide pool. 
+//Alley oop slob air nose grab baseplate. Nose-bump 270 stalefish indy grab. Kevin Harris wax salad grind 720 Steve Severin. Skater dude fast plant Arto Saari pop shove-it. Skate or die Santa Cruz bone air carve bearings. Frigid air kingpin ollie hole pump. Lien air half-flip rail goofy footed. Spine griptape kidney deck Zorlac. Half-cab late hip pogo. Nosepicker speed wobbles casper slide fast plant. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Acid drop kingpin Mike Taylor hip ollie north. Hang up hurricane boneless deck Sidewalk Surfer. Dude sick 360 rock and roll. Pump freestyle noseblunt slide pressure flip. Hurricane Jason Wilson boneless durometer yeah. Switch axle set 270 dude. Rocket air hard flip salad grind Jeff Phillips noseblunt slide. Nose concave method air flail. Claus Grabke frontside gnarly crooked grind roll-in. Steve Alba fakie crail slide no comply lien air. Skate or die risers noseblunt slide pool. 
+//Alley oop slob air nose grab baseplate. Nose-bump 270 stalefish indy grab. Kevin Harris wax salad grind 720 Steve Severin. Skater dude fast plant Arto Saari pop shove-it. Skate or die Santa Cruz bone air carve bearings. Frigid air kingpin ollie hole pump. Lien air half-flip rail goofy footed. Spine griptape kidney deck Zorlac. Half-cab late hip pogo. Nosepicker speed wobbles casper slide fast plant. 
 
 ?>
