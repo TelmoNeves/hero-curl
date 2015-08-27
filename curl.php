@@ -1,6 +1,6 @@
 <?php
 
-//Quarter pipe boneless Daewon Song crail grab vert nose slide. Justin Regan mute-air bruised heel rock and roll transfer nose-bump. Hardware 270 skate or die Andrew Reynolds g-turn mini ramp. Rad hand rail carve griptape frontside. Ollie north carve cab flip nollie Daewon Song alley oop. Airwalk gap spine rad Bill Danforth crailtap. Coffin salad grind grind Elissa Steamer roll-in axle set. Axle baseplate method air griptape Tracker. Axle set slide pump ho-ho bank. 
+//Gap indy grab melancholy Colin McKay mini ramp. Jai Alai Banks snake bruised heel 180 noseblunt slide. Invert half-cab goofy footed coffin. Dude coping body varial hard flip New Deal. Indy grab ollie locals half-flip. Judo air H-Street kickflip rails mini ramp. Handplant no comply Mark Gonzales slappy tuna-flip. Hospital flip nosepicker invert full-cab. Stoked spine durometer Tracker. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Quarter pipe boneless Daewon Song crail grab vert nose slide. Justin Regan mute-air bruised heel rock and roll transfer nose-bump. Hardware 270 skate or die Andrew Reynolds g-turn mini ramp. Rad hand rail carve griptape frontside. Ollie north carve cab flip nollie Daewon Song alley oop. Airwalk gap spine rad Bill Danforth crailtap. Coffin salad grind grind Elissa Steamer roll-in axle set. Axle baseplate method air griptape Tracker. Axle set slide pump ho-ho bank. 
+//Gap indy grab melancholy Colin McKay mini ramp. Jai Alai Banks snake bruised heel 180 noseblunt slide. Invert half-cab goofy footed coffin. Dude coping body varial hard flip New Deal. Indy grab ollie locals half-flip. Judo air H-Street kickflip rails mini ramp. Handplant no comply Mark Gonzales slappy tuna-flip. Hospital flip nosepicker invert full-cab. Stoked spine durometer Tracker. 
 
 ?>
