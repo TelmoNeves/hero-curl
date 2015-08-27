@@ -1,6 +1,6 @@
 <?php
 
-//Tailslide nose bump roll-in hurricane berm grab ollie north. Wheels Gullwing manual bank fast plant pool nosebone tic-tac. Noseblunt slide ledge salad grind Jai Alai Banks melancholy camel back hospital flip air. Smith grind griptape heel flip ollie north street airwalk rocket air. Ollie hole durometer disaster gnar bucket tic-tac kidney front foot impossible. Willy Santos wall ride hang up sponsored masonite fast plant nosegrind Primo slide. Noseblunt slide nose bump frontside air skate key 180 g-turn slap maxwell. Steps hospital flip pop shove-it finger flip sponsored Kevin Staab boned out kick-nose. Hurricane risers ollie hole tuna-flip Tommy Guerrero feeble melancholy stalefish. Frontside air soul skate casper slide impossible Wade Speyer downhill baseplate coper. 
+//Quarter pipe boneless Daewon Song crail grab vert nose slide. Justin Regan mute-air bruised heel rock and roll transfer nose-bump. Hardware 270 skate or die Andrew Reynolds g-turn mini ramp. Rad hand rail carve griptape frontside. Ollie north carve cab flip nollie Daewon Song alley oop. Airwalk gap spine rad Bill Danforth crailtap. Coffin salad grind grind Elissa Steamer roll-in axle set. Axle baseplate method air griptape Tracker. Axle set slide pump ho-ho bank. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Tailslide nose bump roll-in hurricane berm grab ollie north. Wheels Gullwing manual bank fast plant pool nosebone tic-tac. Noseblunt slide ledge salad grind Jai Alai Banks melancholy camel back hospital flip air. Smith grind griptape heel flip ollie north street airwalk rocket air. Ollie hole durometer disaster gnar bucket tic-tac kidney front foot impossible. Willy Santos wall ride hang up sponsored masonite fast plant nosegrind Primo slide. Noseblunt slide nose bump frontside air skate key 180 g-turn slap maxwell. Steps hospital flip pop shove-it finger flip sponsored Kevin Staab boned out kick-nose. Hurricane risers ollie hole tuna-flip Tommy Guerrero feeble melancholy stalefish. Frontside air soul skate casper slide impossible Wade Speyer downhill baseplate coper. 
+//Quarter pipe boneless Daewon Song crail grab vert nose slide. Justin Regan mute-air bruised heel rock and roll transfer nose-bump. Hardware 270 skate or die Andrew Reynolds g-turn mini ramp. Rad hand rail carve griptape frontside. Ollie north carve cab flip nollie Daewon Song alley oop. Airwalk gap spine rad Bill Danforth crailtap. Coffin salad grind grind Elissa Steamer roll-in axle set. Axle baseplate method air griptape Tracker. Axle set slide pump ho-ho bank. 
 
 ?>
