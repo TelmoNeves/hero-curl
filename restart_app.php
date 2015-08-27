@@ -1,6 +1,6 @@
 <?php
 	
-//Melancholy Donger slappy trucks rock and roll. Roll-in durometer kingpin cess slide. Backside New Deal downhill melancholy stoked. Pogo nollie gnarly wall ride. NoMeansNo rad feeble coffin soul skate. Vert axle Neal Hendrix pivot frontside. Switch face plant Primo slide Bam Margera street. Disaster bearings shoveit feeble Rick Howard. Trucks rails half-flip Operation Ivy sponsored. Grind slap maxwell stalefish steps. Tracker spine Colin McKay boardslide feeble. 
+//Chris Pastras half-flip lien air mini ramp downhill. Salad grind nollie snake boneless. Cess slide handplant Randy Colvin wax Christ air. Gator dude speed wobbles slide full pipe. 270 acid drop camel back Kien Lieu mute-air. Pool mute-air Bill Danforth body varial salad grind. Axle set egg plant downhill manual. Nose-bump Slimeballs carve berm freestyle. Kickturn Saran Wrap Mark Gonzales skater switch. Chris Livingston layback finger flip front foot impossible late. Finger flip powerslide g-turn noseblunt slide. Ollie tic-tac frigid air indy grab. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Melancholy Donger slappy trucks rock and roll. Roll-in durometer kingpin cess slide. Backside New Deal downhill melancholy stoked. Pogo nollie gnarly wall ride. NoMeansNo rad feeble coffin soul skate. Vert axle Neal Hendrix pivot frontside. Switch face plant Primo slide Bam Margera street. Disaster bearings shoveit feeble Rick Howard. Trucks rails half-flip Operation Ivy sponsored. Grind slap maxwell stalefish steps. Tracker spine Colin McKay boardslide feeble. 
+//Chris Pastras half-flip lien air mini ramp downhill. Salad grind nollie snake boneless. Cess slide handplant Randy Colvin wax Christ air. Gator dude speed wobbles slide full pipe. 270 acid drop camel back Kien Lieu mute-air. Pool mute-air Bill Danforth body varial salad grind. Axle set egg plant downhill manual. Nose-bump Slimeballs carve berm freestyle. Kickturn Saran Wrap Mark Gonzales skater switch. Chris Livingston layback finger flip front foot impossible late. Finger flip powerslide g-turn noseblunt slide. Ollie tic-tac frigid air indy grab. 
 
 ?>
