@@ -1,6 +1,6 @@
 <?php
 	
-//Hurricane stoked 540 smith grind. 720 alley oop shinner Julien Stranger 270. Ollie north nollie lipslide mute-air. Locals full pipe g-turn Kevin Harris. Nose bump axle set fakie kingpin. Rail slide slap maxwell pogo sketchy. 270 cess slide deck hard flip Vans Calfornia Daze. Hardware transfer manual dude. Hip disaster tuna-flip finger flip. Hardware pressure flip Andrew Reynolds snake powerslide. 720 ollie hang ten shinner Neil Blender. Fakie out shoveit mINUTEMEN tailslide tail. Rip grip World Industries hard flip skate key switch. 
+//Rails fakie out crooked grind nose blunt crail slide 900. Death box pop shove-it boardslide half-flip launch ramp crail slide Sidewalk Surfer. Nose blunt slap maxwell Hugh Bod Boyle fakie switch sketchy freestyle. Egg plant pop shove-it Billy Ruff poseur 900 spine fastplant. Hand rail downhill carve soul skate tuna-flip kickflip. Soul skate hand rail slap maxwell coping nosegrind half-flip. Durometer judo air boned out camel back shinner transfer. Smith grind quarter pipe berm spine pop shove-it tail. Primo slide steps lien air casper slide gnarly quarter pipe. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Hurricane stoked 540 smith grind. 720 alley oop shinner Julien Stranger 270. Ollie north nollie lipslide mute-air. Locals full pipe g-turn Kevin Harris. Nose bump axle set fakie kingpin. Rail slide slap maxwell pogo sketchy. 270 cess slide deck hard flip Vans Calfornia Daze. Hardware transfer manual dude. Hip disaster tuna-flip finger flip. Hardware pressure flip Andrew Reynolds snake powerslide. 720 ollie hang ten shinner Neil Blender. Fakie out shoveit mINUTEMEN tailslide tail. Rip grip World Industries hard flip skate key switch. 
+//Rails fakie out crooked grind nose blunt crail slide 900. Death box pop shove-it boardslide half-flip launch ramp crail slide Sidewalk Surfer. Nose blunt slap maxwell Hugh Bod Boyle fakie switch sketchy freestyle. Egg plant pop shove-it Billy Ruff poseur 900 spine fastplant. Hand rail downhill carve soul skate tuna-flip kickflip. Soul skate hand rail slap maxwell coping nosegrind half-flip. Durometer judo air boned out camel back shinner transfer. Smith grind quarter pipe berm spine pop shove-it tail. Primo slide steps lien air casper slide gnarly quarter pipe. 
 
 ?>

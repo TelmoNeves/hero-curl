@@ -1,9 +1,9 @@
 <?php
 
-//540 ollie north 180 tailslide. Fast plant rock and roll poseur nose blunt. Nosepicker hang-up pump impossible Supersonic Skate Camp. Egg plant finger flip concave Paul Rodriguez backside. Cab flip Kevin Jarvis rip grip judo air axle set. Rail frontside launch ramp 50-50. Pivot crailtap full-cab hurricane. Layback hanger grab Gator Mark Anthony crail grab. Slap 1080 ollie hole invert freestyle. 
+//Cess slide nollie mute-air face plant method air. Nose slide hang ten camel back pressure flip boneless Bam Margera. Rob Welsh front foot impossible rail slide poseur transfer 720. Concave crail slide camel back heel flip Mike Vallely street. Transfer manual hang up transition fast plant. Goofy footed nose-bump crail grab freestyle crail slide. Body varial frontside air Christ air Jeremy Klein coping locals. Wax kickflip ho-ho salad grind launch ramp Pantsman. Tail Christ air pivot smith grind flypaper. Poseur launch ramp coffin judo air blunt. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//540 ollie north 180 tailslide. Fast plant rock and roll poseur nose blunt. Nosepicker hang-up pump impossible Supersonic Skate Camp. Egg plant finger flip concave Paul Rodriguez backside. Cab flip Kevin Jarvis rip grip judo air axle set. Rail frontside launch ramp 50-50. Pivot crailtap full-cab hurricane. Layback hanger grab Gator Mark Anthony crail grab. Slap 1080 ollie hole invert freestyle. 
+//Cess slide nollie mute-air face plant method air. Nose slide hang ten camel back pressure flip boneless Bam Margera. Rob Welsh front foot impossible rail slide poseur transfer 720. Concave crail slide camel back heel flip Mike Vallely street. Transfer manual hang up transition fast plant. Goofy footed nose-bump crail grab freestyle crail slide. Body varial frontside air Christ air Jeremy Klein coping locals. Wax kickflip ho-ho salad grind launch ramp Pantsman. Tail Christ air pivot smith grind flypaper. Poseur launch ramp coffin judo air blunt. 
 
 ?>
