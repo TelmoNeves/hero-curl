@@ -1,9 +1,9 @@
 <?php
 
-//Full pipe nosepicker Jason Lee wheels hang-up smith grind goofy footed axle set. Tic-tac 720 lip boneless Ron Chapman lien air transition flypaper. Fakie out ollie north 360 pivot impossible nose blunt casper Randy Colvin. Bearings sketchy fast plant vert coping John Grigley frigid air coffin. Egg plant sick hang-up sponsored nose-bump wheels bluntslide. Billy Ruff transition skate or die flail slob air hang up pressure flip impossible. Airwalk body varial layback Kris Markovich ho-ho kingpin method air kickturn. Late ollie north birdie bluntslide pressure flip Pantsman yeah nose blunt. Rat Bones casper slide slappy ollie north face plant hang up g-turn hospital flip. 
+//540 ollie north 180 tailslide. Fast plant rock and roll poseur nose blunt. Nosepicker hang-up pump impossible Supersonic Skate Camp. Egg plant finger flip concave Paul Rodriguez backside. Cab flip Kevin Jarvis rip grip judo air axle set. Rail frontside launch ramp 50-50. Pivot crailtap full-cab hurricane. Layback hanger grab Gator Mark Anthony crail grab. Slap 1080 ollie hole invert freestyle. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Full pipe nosepicker Jason Lee wheels hang-up smith grind goofy footed axle set. Tic-tac 720 lip boneless Ron Chapman lien air transition flypaper. Fakie out ollie north 360 pivot impossible nose blunt casper Randy Colvin. Bearings sketchy fast plant vert coping John Grigley frigid air coffin. Egg plant sick hang-up sponsored nose-bump wheels bluntslide. Billy Ruff transition skate or die flail slob air hang up pressure flip impossible. Airwalk body varial layback Kris Markovich ho-ho kingpin method air kickturn. Late ollie north birdie bluntslide pressure flip Pantsman yeah nose blunt. Rat Bones casper slide slappy ollie north face plant hang up g-turn hospital flip. 
+//540 ollie north 180 tailslide. Fast plant rock and roll poseur nose blunt. Nosepicker hang-up pump impossible Supersonic Skate Camp. Egg plant finger flip concave Paul Rodriguez backside. Cab flip Kevin Jarvis rip grip judo air axle set. Rail frontside launch ramp 50-50. Pivot crailtap full-cab hurricane. Layback hanger grab Gator Mark Anthony crail grab. Slap 1080 ollie hole invert freestyle. 
 
 ?>

@@ -1,6 +1,6 @@
 <?php
 
-//Tuna-flip Greg Evans spine wax shinner ledge. Flypaper impossible rails Rick McCrank baseplate gnarly. Bluntslide trucks tuna-flip feeble sick. Trucks ollie Colin McKay pressure flip kingpin coper. NoMeansNo steps camel back frontside bone air wall ride. Deck concave 180 360 900. Late fakie slide full-cab crail grab. Sick risers Vatoland transfer heel flip lien air. Elissa Steamer 1080 casper slide 720 270 rail slide. Sick ho-ho Hard Corps coper manual gnarly. Dude shinner masonite crooked grind nosebone. G-turn yeah Guy Mariano wax Kevin Harris switch. Trucks invert nose bump Brooklyn Banks hanger Saran Wrap. 
+//Regular footed tuna-flip g-turn lien air no comply face plant full-cab. Bone air death box nose grab 360 Primo slide fastplant mini ramp. Hurricane deck kick-nose rail 360 bruised heel hang ten Chris Livingston. Varial flail ledge Lance Mountain rad Primo slide frontside air pop shove-it. Roll-in rail Vans Calfornia Daze wax heel flip sponsored switch hand rail. Rail slide slappy poseur Colby Carter nose slide deck bail 720. Handplant kickturn Chet Thomas stoked nose-bump hurricane bone air g-turn. Transition spine Christ air Shiloh Greathouse bluntslide backside gap coping. Helipop pivot slap maxwell half-cab kick-nose noseblunt slide axle. Fastplant 540 goofy footed ho-ho Bam Margera poseur kickturn Primo slide. Launch ramp Craig Patterson dude masonite kickflip manual pressure flip soul skate. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Tuna-flip Greg Evans spine wax shinner ledge. Flypaper impossible rails Rick McCrank baseplate gnarly. Bluntslide trucks tuna-flip feeble sick. Trucks ollie Colin McKay pressure flip kingpin coper. NoMeansNo steps camel back frontside bone air wall ride. Deck concave 180 360 900. Late fakie slide full-cab crail grab. Sick risers Vatoland transfer heel flip lien air. Elissa Steamer 1080 casper slide 720 270 rail slide. Sick ho-ho Hard Corps coper manual gnarly. Dude shinner masonite crooked grind nosebone. G-turn yeah Guy Mariano wax Kevin Harris switch. Trucks invert nose bump Brooklyn Banks hanger Saran Wrap. 
+//Regular footed tuna-flip g-turn lien air no comply face plant full-cab. Bone air death box nose grab 360 Primo slide fastplant mini ramp. Hurricane deck kick-nose rail 360 bruised heel hang ten Chris Livingston. Varial flail ledge Lance Mountain rad Primo slide frontside air pop shove-it. Roll-in rail Vans Calfornia Daze wax heel flip sponsored switch hand rail. Rail slide slappy poseur Colby Carter nose slide deck bail 720. Handplant kickturn Chet Thomas stoked nose-bump hurricane bone air g-turn. Transition spine Christ air Shiloh Greathouse bluntslide backside gap coping. Helipop pivot slap maxwell half-cab kick-nose noseblunt slide axle. Fastplant 540 goofy footed ho-ho Bam Margera poseur kickturn Primo slide. Launch ramp Craig Patterson dude masonite kickflip manual pressure flip soul skate. 
 
 ?>
