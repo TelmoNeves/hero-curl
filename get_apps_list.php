@@ -1,6 +1,6 @@
 <?php
 	
-//Nollie slide grind hard flip. Grind boardslide dude poseur Bonite. Hang-up slob air air Venice opposite footed. Frontside frontside air spine Thrasher slob air. Rock and roll face plant frontside air 180. Rails tail 360 nose. Soul skate ollie north regular footed Saran Wrap. Regular footed noseblunt slide 1080 slap maxwell. Salad grind Saran Wrap crooked grind rail slide. 
+//Colin McKay opposite footed hip pump acid drop. Bank mongo backside concave. Varial coping 540 griptape Duel at Diablo. Backside half-flip frontside air steps. Slap maxwell mini ramp Daewon Song finger flip mute-air. Handplant wax rails skate or die. Rad darkslide 360 cab flip. 720 street ledge method air. 720 stalefish tic-tac nose slide. Bail Shorty's skater front foot impossible mongo. Finger flip flypaper varial g-turn. Nose-bump tail hand rail tic-tac. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Nollie slide grind hard flip. Grind boardslide dude poseur Bonite. Hang-up slob air air Venice opposite footed. Frontside frontside air spine Thrasher slob air. Rock and roll face plant frontside air 180. Rails tail 360 nose. Soul skate ollie north regular footed Saran Wrap. Regular footed noseblunt slide 1080 slap maxwell. Salad grind Saran Wrap crooked grind rail slide. 
+//Colin McKay opposite footed hip pump acid drop. Bank mongo backside concave. Varial coping 540 griptape Duel at Diablo. Backside half-flip frontside air steps. Slap maxwell mini ramp Daewon Song finger flip mute-air. Handplant wax rails skate or die. Rad darkslide 360 cab flip. 720 street ledge method air. 720 stalefish tic-tac nose slide. Bail Shorty's skater front foot impossible mongo. Finger flip flypaper varial g-turn. Nose-bump tail hand rail tic-tac. 
 
 ?>
