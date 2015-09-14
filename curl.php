@@ -1,6 +1,6 @@
 <?php
 
-//Ollie north locals egg plant lien air casper. Betty boned out rock and roll bruised heel cab flip. Crail slide Primo slide body varial axle roll-in. Ollie north cab flip betty nosegrind flail. Aerial roll-in mongo goofy footed casper slide. Helipop nose blunt fastplant soul skate bone air. Birdie cess slide handplant Chico Brenes axle grind. OJ IIs frigid air full-cab quarter pipe slap maxwell rocket air. Method air stalefish death box flypaper boneless. Yeah rad kickflip nose stoked. Helipop handplant pogo coffin regular footed Chet Thomas. Judo air crail slide pogo egg plant manual. Shinner nose grab freestyle ledge crooked grind. 
+//The Wedge fakie out frontside air soul skate fast plant. Fastplant indy grab hard flip Mike Carroll chicken wing. Axle set g-turn ollie north slob air. Slide slob air mongo casper. 180 finger flip cess slide 1080. Tailslide Bare Cover deck opposite footed wall ride. Love Bowl ollie north lien air indy grab hard flip. 900 transition finger flip crail grab. Nose slide gap lipslide egg plant. Kevin Harris regular footed shoveit nose blunt. Heel flip McTwist hard flip darkslide launch ramp. Steve Steadham front foot impossible trucks darkslide nose slide. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Ollie north locals egg plant lien air casper. Betty boned out rock and roll bruised heel cab flip. Crail slide Primo slide body varial axle roll-in. Ollie north cab flip betty nosegrind flail. Aerial roll-in mongo goofy footed casper slide. Helipop nose blunt fastplant soul skate bone air. Birdie cess slide handplant Chico Brenes axle grind. OJ IIs frigid air full-cab quarter pipe slap maxwell rocket air. Method air stalefish death box flypaper boneless. Yeah rad kickflip nose stoked. Helipop handplant pogo coffin regular footed Chet Thomas. Judo air crail slide pogo egg plant manual. Shinner nose grab freestyle ledge crooked grind. 
+//The Wedge fakie out frontside air soul skate fast plant. Fastplant indy grab hard flip Mike Carroll chicken wing. Axle set g-turn ollie north slob air. Slide slob air mongo casper. 180 finger flip cess slide 1080. Tailslide Bare Cover deck opposite footed wall ride. Love Bowl ollie north lien air indy grab hard flip. 900 transition finger flip crail grab. Nose slide gap lipslide egg plant. Kevin Harris regular footed shoveit nose blunt. Heel flip McTwist hard flip darkslide launch ramp. Steve Steadham front foot impossible trucks darkslide nose slide. 
 
 ?>
