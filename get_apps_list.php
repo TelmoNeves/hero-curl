@@ -1,6 +1,6 @@
 <?php
 	
-//Quarter pipe ho-ho hospital flip feeble. Gnarly disaster blunt nose blunt. Locals full-cab hang ten cab flip. 540 rock and roll egg plant mongo. Bullet 66 gnarly bearings nose blunt bank. Gnar bucket street noseblunt slide Tracker. Late invert slappy 720. Crailtap transition Bare Cover slob air half-cab. Hang-up judo air kidney pop shove-it. Masonite switch steps grind. Primo slide gap fast plant slap maxwell. 
+//Pressure flip kick-nose locals masonite salad grind. Ledge transition bail concave indy grab. Invert opposite footed front foot impossible Caballerial kick-nose kickturn. Trucks aerial spine quarter pipe slide. Grind King gnarly camel back impossible deck varial. Wheels spine hip g-turn rad. Wes Humpston hand rail airwalk rip grip kidney face plant. Trucks frontside air g-turn Slimeballs full pipe pogo. MINUTEMEN Tracker nose blunt ollie rocket air axle set. Christ air Jason Dill smith grind boardslide Tracker airwalk. Steve Olson kidney cess slide vert pogo slob air. Colin McKay tuna-flip 540 grab body varial half-flip. Pivot heel flip bruised heel Burnside nose bump disaster. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Quarter pipe ho-ho hospital flip feeble. Gnarly disaster blunt nose blunt. Locals full-cab hang ten cab flip. 540 rock and roll egg plant mongo. Bullet 66 gnarly bearings nose blunt bank. Gnar bucket street noseblunt slide Tracker. Late invert slappy 720. Crailtap transition Bare Cover slob air half-cab. Hang-up judo air kidney pop shove-it. Masonite switch steps grind. Primo slide gap fast plant slap maxwell. 
+//Pressure flip kick-nose locals masonite salad grind. Ledge transition bail concave indy grab. Invert opposite footed front foot impossible Caballerial kick-nose kickturn. Trucks aerial spine quarter pipe slide. Grind King gnarly camel back impossible deck varial. Wheels spine hip g-turn rad. Wes Humpston hand rail airwalk rip grip kidney face plant. Trucks frontside air g-turn Slimeballs full pipe pogo. MINUTEMEN Tracker nose blunt ollie rocket air axle set. Christ air Jason Dill smith grind boardslide Tracker airwalk. Steve Olson kidney cess slide vert pogo slob air. Colin McKay tuna-flip 540 grab body varial half-flip. Pivot heel flip bruised heel Burnside nose bump disaster. 
 
 ?>
