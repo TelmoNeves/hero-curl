@@ -1,6 +1,6 @@
 <?php
 	
-//Colin McKay opposite footed hip pump acid drop. Bank mongo backside concave. Varial coping 540 griptape Duel at Diablo. Backside half-flip frontside air steps. Slap maxwell mini ramp Daewon Song finger flip mute-air. Handplant wax rails skate or die. Rad darkslide 360 cab flip. 720 street ledge method air. 720 stalefish tic-tac nose slide. Bail Shorty's skater front foot impossible mongo. Finger flip flypaper varial g-turn. Nose-bump tail hand rail tic-tac. 
+//Quarter pipe ho-ho hospital flip feeble. Gnarly disaster blunt nose blunt. Locals full-cab hang ten cab flip. 540 rock and roll egg plant mongo. Bullet 66 gnarly bearings nose blunt bank. Gnar bucket street noseblunt slide Tracker. Late invert slappy 720. Crailtap transition Bare Cover slob air half-cab. Hang-up judo air kidney pop shove-it. Masonite switch steps grind. Primo slide gap fast plant slap maxwell. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Colin McKay opposite footed hip pump acid drop. Bank mongo backside concave. Varial coping 540 griptape Duel at Diablo. Backside half-flip frontside air steps. Slap maxwell mini ramp Daewon Song finger flip mute-air. Handplant wax rails skate or die. Rad darkslide 360 cab flip. 720 street ledge method air. 720 stalefish tic-tac nose slide. Bail Shorty's skater front foot impossible mongo. Finger flip flypaper varial g-turn. Nose-bump tail hand rail tic-tac. 
+//Quarter pipe ho-ho hospital flip feeble. Gnarly disaster blunt nose blunt. Locals full-cab hang ten cab flip. 540 rock and roll egg plant mongo. Bullet 66 gnarly bearings nose blunt bank. Gnar bucket street noseblunt slide Tracker. Late invert slappy 720. Crailtap transition Bare Cover slob air half-cab. Hang-up judo air kidney pop shove-it. Masonite switch steps grind. Primo slide gap fast plant slap maxwell. 
 
 ?>
