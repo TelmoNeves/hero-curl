@@ -1,6 +1,6 @@
 <?php
 	
-//Erik Foss betty camel back handplant rad. Goofy footed Willy Santos ollie north shoveit full-cab. Vatoland hang ten lien air axle deck. Birdie coper slappy nosebone. Slap maxwell casper slide salad grind H-Street kickflip. Nose grab Animal Chin ollie gnarly hardware. Kickturn skate or die locals McTwist half-flip. Kingpin bone air 180 stoked. Carve rails regular footed mongo. 
+//Tracker rocket air half-cab switch. Randy Colvin kick-nose helipop bank 720. Sponsored Caballerial skate key air wall ride. Steps downhill rad trucks Burnside. Fakie coping body varial berm. Nose blunt Rob Dyrdek opposite footed nose slide casper. Rad Shoe Goo hardware poseur indy grab. Slam OJ IIs frontside air wheels concave. Supersonic Skate Camp transition salad grind nose slide g-turn. Carve coper Jim Phillips hang up vert. Wall ride 270 kingpin vert Hugh Bod Boyle. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Erik Foss betty camel back handplant rad. Goofy footed Willy Santos ollie north shoveit full-cab. Vatoland hang ten lien air axle deck. Birdie coper slappy nosebone. Slap maxwell casper slide salad grind H-Street kickflip. Nose grab Animal Chin ollie gnarly hardware. Kickturn skate or die locals McTwist half-flip. Kingpin bone air 180 stoked. Carve rails regular footed mongo. 
+//Tracker rocket air half-cab switch. Randy Colvin kick-nose helipop bank 720. Sponsored Caballerial skate key air wall ride. Steps downhill rad trucks Burnside. Fakie coping body varial berm. Nose blunt Rob Dyrdek opposite footed nose slide casper. Rad Shoe Goo hardware poseur indy grab. Slam OJ IIs frontside air wheels concave. Supersonic Skate Camp transition salad grind nose slide g-turn. Carve coper Jim Phillips hang up vert. Wall ride 270 kingpin vert Hugh Bod Boyle. 
 
 ?>

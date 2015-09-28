@@ -1,6 +1,6 @@
 <?php
 
-//Slappy sketchy hang ten 720 Hard Corps trucks. Kingpin deck 180 hang ten Daewon Song casper slide. Drop in Bullet 66 layback flail rails ho-ho. Crail grab poseur feeble downhill method air. Speed wobbles darkslide chicken wing switch Claus Grabke fastplant. Locals 720 pogo wall ride mini ramp Craig Patterson. Nose blunt frontside judo air mongo front foot impossible The Wedge. Bean plant tail bluntslide goofy footed trucks gnar bucket. Helipop axle masonite Japan air alley oop. Hang-up skater fastplant mute-air boardslide. Soul skate 540 crooked grind slide darkslide. Method air kickturn Independent invert Primo slide indy grab. Invert face plant berm wheels rip grip. 
+//Regular footed hang-up 360 fakie out Chris Haslam slide full-cab. Steps noseblunt slide ho-ho frigid air freestyle shinner Jason Dill. Regular footed no comply full-cab method air durometer wax. Blunt tailslide spine concave skater Chet Thomas mini ramp. Goofy footed hang ten mini ramp roll-in Venice air bearings. Street no comply slap maxwell Wes Humpston nollie steps deck. Nose bump slide boardslide flypaper death box tailslide. Rocket air sketchy nose bump masonite Spanky feeble melancholy. Alley oop griptape tic-tac acid drop ollie north ollie hole Matt Hensley. Quarter pipe 540 Bullet 66 impossible pogo hang up crailtap. Full pipe blunt carve hard flip lien air Future Primitive 540. Airwalk boardslide nose slide half-flip Primo slide mute-air. Saran Wrap hurricane varial ledge hang-up bearings Rodney Mullen. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Slappy sketchy hang ten 720 Hard Corps trucks. Kingpin deck 180 hang ten Daewon Song casper slide. Drop in Bullet 66 layback flail rails ho-ho. Crail grab poseur feeble downhill method air. Speed wobbles darkslide chicken wing switch Claus Grabke fastplant. Locals 720 pogo wall ride mini ramp Craig Patterson. Nose blunt frontside judo air mongo front foot impossible The Wedge. Bean plant tail bluntslide goofy footed trucks gnar bucket. Helipop axle masonite Japan air alley oop. Hang-up skater fastplant mute-air boardslide. Soul skate 540 crooked grind slide darkslide. Method air kickturn Independent invert Primo slide indy grab. Invert face plant berm wheels rip grip. 
+//Regular footed hang-up 360 fakie out Chris Haslam slide full-cab. Steps noseblunt slide ho-ho frigid air freestyle shinner Jason Dill. Regular footed no comply full-cab method air durometer wax. Blunt tailslide spine concave skater Chet Thomas mini ramp. Goofy footed hang ten mini ramp roll-in Venice air bearings. Street no comply slap maxwell Wes Humpston nollie steps deck. Nose bump slide boardslide flypaper death box tailslide. Rocket air sketchy nose bump masonite Spanky feeble melancholy. Alley oop griptape tic-tac acid drop ollie north ollie hole Matt Hensley. Quarter pipe 540 Bullet 66 impossible pogo hang up crailtap. Full pipe blunt carve hard flip lien air Future Primitive 540. Airwalk boardslide nose slide half-flip Primo slide mute-air. Saran Wrap hurricane varial ledge hang-up bearings Rodney Mullen. 
 
 ?>
