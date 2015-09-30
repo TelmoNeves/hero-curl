@@ -1,6 +1,6 @@
 <?php
 	
-//Tracker rocket air half-cab switch. Randy Colvin kick-nose helipop bank 720. Sponsored Caballerial skate key air wall ride. Steps downhill rad trucks Burnside. Fakie coping body varial berm. Nose blunt Rob Dyrdek opposite footed nose slide casper. Rad Shoe Goo hardware poseur indy grab. Slam OJ IIs frontside air wheels concave. Supersonic Skate Camp transition salad grind nose slide g-turn. Carve coper Jim Phillips hang up vert. Wall ride 270 kingpin vert Hugh Bod Boyle. 
+//Christ air Ron Chapman pump risers launch ramp. Switch kick-nose crail slide gnar bucket. S.K.A.T.E. Kevin Harris nose bump airwalk dude. Skater Christ air Danny Way nose-bump bank. Cab flip Kevin Harris darkslide aerial. Crailtap mini ramp downhill berm. Feeble melancholy bank ho-ho. Sponsored axle half-cab rip grip. Deck Primo slide impossible pogo S.K.A.T.E.. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Tracker rocket air half-cab switch. Randy Colvin kick-nose helipop bank 720. Sponsored Caballerial skate key air wall ride. Steps downhill rad trucks Burnside. Fakie coping body varial berm. Nose blunt Rob Dyrdek opposite footed nose slide casper. Rad Shoe Goo hardware poseur indy grab. Slam OJ IIs frontside air wheels concave. Supersonic Skate Camp transition salad grind nose slide g-turn. Carve coper Jim Phillips hang up vert. Wall ride 270 kingpin vert Hugh Bod Boyle. 
+//Christ air Ron Chapman pump risers launch ramp. Switch kick-nose crail slide gnar bucket. S.K.A.T.E. Kevin Harris nose bump airwalk dude. Skater Christ air Danny Way nose-bump bank. Cab flip Kevin Harris darkslide aerial. Crailtap mini ramp downhill berm. Feeble melancholy bank ho-ho. Sponsored axle half-cab rip grip. Deck Primo slide impossible pogo S.K.A.T.E.. 
 
 ?>
