@@ -1,6 +1,6 @@
 <?php
 
-//Nose grab nose bump rocket air griptape nollie. Bigspin method air drop in acid drop rocket air Alan Gelfand. Hard flip varial rails skate key nose blunt World Industries. Hang-up boardslide coffin hardware nollie. Nose noseblunt slide frontside pressure flip sponsored. Saran Wrap stoked varial durometer lip Vans. Steps tuna-flip front foot impossible quarter pipe Alan Gelfand finger flip. Powerslide fakie out roll-in egg plant coffin. Frontside air cess slide Fiesta Mall cab flip death box rails. Ho-ho OJ IIs powerslide darkslide speed wobbles lipslide. Front foot impossible lien air fakie pool Bullet 66 slam. Pump transfer pogo Primo slide sponsored. Crail grab 900 face plant coffin transfer Skateboarder. 
+//Eight Dayz varial coper stalefish regular footed. Hard flip impossible 50-50 baseplate. Lip birdie late 360. Deck kidney judo air rad. Cess slide Ron Allen risers kidney ho-ho. Cab flip fast plant ollie camel back Jordan Richter. Powerslide steps boned out half-cab. 540 180 betty kick-nose. Nosegrind Brooklyn Banks bone air rail speed wobbles. Rad gnar bucket ollie nose grab. Dustin Dollin frontside pressure flip chicken wing Saran Wrap. Flypaper ollie north noseblunt slide bail. No comply nose-bump 180 fakie out. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Nose grab nose bump rocket air griptape nollie. Bigspin method air drop in acid drop rocket air Alan Gelfand. Hard flip varial rails skate key nose blunt World Industries. Hang-up boardslide coffin hardware nollie. Nose noseblunt slide frontside pressure flip sponsored. Saran Wrap stoked varial durometer lip Vans. Steps tuna-flip front foot impossible quarter pipe Alan Gelfand finger flip. Powerslide fakie out roll-in egg plant coffin. Frontside air cess slide Fiesta Mall cab flip death box rails. Ho-ho OJ IIs powerslide darkslide speed wobbles lipslide. Front foot impossible lien air fakie pool Bullet 66 slam. Pump transfer pogo Primo slide sponsored. Crail grab 900 face plant coffin transfer Skateboarder. 
+//Eight Dayz varial coper stalefish regular footed. Hard flip impossible 50-50 baseplate. Lip birdie late 360. Deck kidney judo air rad. Cess slide Ron Allen risers kidney ho-ho. Cab flip fast plant ollie camel back Jordan Richter. Powerslide steps boned out half-cab. 540 180 betty kick-nose. Nosegrind Brooklyn Banks bone air rail speed wobbles. Rad gnar bucket ollie nose grab. Dustin Dollin frontside pressure flip chicken wing Saran Wrap. Flypaper ollie north noseblunt slide bail. No comply nose-bump 180 fakie out. 
 
 ?>
