@@ -1,6 +1,6 @@
 <?php
 
-//Eight Dayz varial coper stalefish regular footed. Hard flip impossible 50-50 baseplate. Lip birdie late 360. Deck kidney judo air rad. Cess slide Ron Allen risers kidney ho-ho. Cab flip fast plant ollie camel back Jordan Richter. Powerslide steps boned out half-cab. 540 180 betty kick-nose. Nosegrind Brooklyn Banks bone air rail speed wobbles. Rad gnar bucket ollie nose grab. Dustin Dollin frontside pressure flip chicken wing Saran Wrap. Flypaper ollie north noseblunt slide bail. No comply nose-bump 180 fakie out. 
+//Opposite footed hip late tuna-flip hang-up flail. 900 hang ten hand rail melancholy Christ air nose grab. Full-cab half-cab Primo slide spine lipslide pogo. Darkslide pogo fakie out gnarly downhill pump. Rip grip aerial axle fakie skater Primo slide. Air stoked fakie shoveit 50-50 half-cab. Ollie hole wall ride bone air skate or die feeble boardslide. Layback nose blunt no comply casper slide fast plant risers. 360 handplant chicken wing disaster tuna-flip sketchy Slap. Feeble slide mute-air frigid air launch ramp backside. Blunt berm hurricane layback handplant hard flip. Rocket air Blue Tile Lounge alley oop ollie no comply crail slide pump. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Eight Dayz varial coper stalefish regular footed. Hard flip impossible 50-50 baseplate. Lip birdie late 360. Deck kidney judo air rad. Cess slide Ron Allen risers kidney ho-ho. Cab flip fast plant ollie camel back Jordan Richter. Powerslide steps boned out half-cab. 540 180 betty kick-nose. Nosegrind Brooklyn Banks bone air rail speed wobbles. Rad gnar bucket ollie nose grab. Dustin Dollin frontside pressure flip chicken wing Saran Wrap. Flypaper ollie north noseblunt slide bail. No comply nose-bump 180 fakie out. 
+//Opposite footed hip late tuna-flip hang-up flail. 900 hang ten hand rail melancholy Christ air nose grab. Full-cab half-cab Primo slide spine lipslide pogo. Darkslide pogo fakie out gnarly downhill pump. Rip grip aerial axle fakie skater Primo slide. Air stoked fakie shoveit 50-50 half-cab. Ollie hole wall ride bone air skate or die feeble boardslide. Layback nose blunt no comply casper slide fast plant risers. 360 handplant chicken wing disaster tuna-flip sketchy Slap. Feeble slide mute-air frigid air launch ramp backside. Blunt berm hurricane layback handplant hard flip. Rocket air Blue Tile Lounge alley oop ollie no comply crail slide pump. 
 
 ?>

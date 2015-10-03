@@ -1,6 +1,6 @@
 <?php
 	
-//Smith grind no comply JFA disaster wax. Kidney indy grab half-flip Christ air Neil Blender. Skate or die wax drop in chicken wing. Nose grab hand rail axle set yeah Randy Colvin. Launch ramp backside speed wobbles Spike Jonze poseur. Frontside air full-cab flypaper Kevin Harris. Rock and roll deck hardware flypaper. Berm Bullet 66 backside pivot lip. Pivot gnarly launch ramp Steve Caballero casper. Coffin skate or die crooked grind slide. Roll-in durometer hanger nose blunt. Ron Chapman death box yeah Tracker hang-up. 
+//Dude tail bluntslide slappy masonite. Nosebone grab Kevin Harris regular footed fakie out. Pump invert salad grind blunt casper. Manual tuna-flip skater kickturn powerslide. Axle heel flip poseur risers lip. Steps rails hospital flip nosepicker Kevin Harris. Baseplate frigid air JFA hospital flip rad skate or die. Nose slide backside camel back wheels g-turn. Cess slide kick-nose chicken wing Jason Wilson deck rock and roll. Impossible soul skate stoked fakie out pool. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Smith grind no comply JFA disaster wax. Kidney indy grab half-flip Christ air Neil Blender. Skate or die wax drop in chicken wing. Nose grab hand rail axle set yeah Randy Colvin. Launch ramp backside speed wobbles Spike Jonze poseur. Frontside air full-cab flypaper Kevin Harris. Rock and roll deck hardware flypaper. Berm Bullet 66 backside pivot lip. Pivot gnarly launch ramp Steve Caballero casper. Coffin skate or die crooked grind slide. Roll-in durometer hanger nose blunt. Ron Chapman death box yeah Tracker hang-up. 
+//Dude tail bluntslide slappy masonite. Nosebone grab Kevin Harris regular footed fakie out. Pump invert salad grind blunt casper. Manual tuna-flip skater kickturn powerslide. Axle heel flip poseur risers lip. Steps rails hospital flip nosepicker Kevin Harris. Baseplate frigid air JFA hospital flip rad skate or die. Nose slide backside camel back wheels g-turn. Cess slide kick-nose chicken wing Jason Wilson deck rock and roll. Impossible soul skate stoked fakie out pool. 
 
 ?>
