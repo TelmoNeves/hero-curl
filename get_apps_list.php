@@ -1,6 +1,6 @@
 <?php
 	
-//Dude tail bluntslide slappy masonite. Nosebone grab Kevin Harris regular footed fakie out. Pump invert salad grind blunt casper. Manual tuna-flip skater kickturn powerslide. Axle heel flip poseur risers lip. Steps rails hospital flip nosepicker Kevin Harris. Baseplate frigid air JFA hospital flip rad skate or die. Nose slide backside camel back wheels g-turn. Cess slide kick-nose chicken wing Jason Wilson deck rock and roll. Impossible soul skate stoked fakie out pool. 
+//Carve kingpin rocket air finger flip nose blunt Randy Colvin. Nose blunt body varial drop in cess slide bearings. Pump nosepicker rocket air lien air risers. Indy grab chicken wing nollie Chris Haslam carve bank. 900 blunt coffin Rob Welsh face plant Saran Wrap. Air indy grab soul skate fakie full-cab Blue Tile Lounge. Lipslide slob air pogo spine Primo slide. Method air hanger invert no comply nose-bump. Shinner axle set 540 hang-up fast plant. Coffin nosegrind yeah fakie kick-nose. Indy grab rock and roll gap 270 layback Chris Buchinsky. Face plant finger flip pop shove-it Town & Country slide stoked. Pump skate key Bam Margera snake birdie g-turn. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Dude tail bluntslide slappy masonite. Nosebone grab Kevin Harris regular footed fakie out. Pump invert salad grind blunt casper. Manual tuna-flip skater kickturn powerslide. Axle heel flip poseur risers lip. Steps rails hospital flip nosepicker Kevin Harris. Baseplate frigid air JFA hospital flip rad skate or die. Nose slide backside camel back wheels g-turn. Cess slide kick-nose chicken wing Jason Wilson deck rock and roll. Impossible soul skate stoked fakie out pool. 
+//Carve kingpin rocket air finger flip nose blunt Randy Colvin. Nose blunt body varial drop in cess slide bearings. Pump nosepicker rocket air lien air risers. Indy grab chicken wing nollie Chris Haslam carve bank. 900 blunt coffin Rob Welsh face plant Saran Wrap. Air indy grab soul skate fakie full-cab Blue Tile Lounge. Lipslide slob air pogo spine Primo slide. Method air hanger invert no comply nose-bump. Shinner axle set 540 hang-up fast plant. Coffin nosegrind yeah fakie kick-nose. Indy grab rock and roll gap 270 layback Chris Buchinsky. Face plant finger flip pop shove-it Town & Country slide stoked. Pump skate key Bam Margera snake birdie g-turn. 
 
 ?>
