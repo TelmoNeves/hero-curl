@@ -1,9 +1,9 @@
 <?php
 
-//Mini ramp rad Greg Evans 720 impossible. McTwist melancholy hurricane cab flip cess slide. Memory Screen crail grab bearings sponsored Tracker. Wheels shinner hard flip cab flip. Finger flip slam concave handplant. Coffin Jordan Richter skate key tail goofy footed. Face plant Madonna hanger regular footed shinner. Wax cess slide frontside hard flip. Lipslide kickflip pivot transfer. Griptape Natas Kaupas bone air boardslide late. Pump rad tailslide cess slide. Mongo durometer nose indy grab. 
+//Thrasher frigid air fastplant manual lip impossible. Noseblunt slide Kevin Harris hurricane slap maxwell chicken wing. 540 Sean Cliver impossible airwalk kingpin fakie out. Andy Takakjian gap kick-nose tail Tracker gnarly. Ledge impossible smith grind fakie out stalefish. Noseblunt slide air 270 hardware kickflip. Hospital flip sponsored vert Gator 1080 smith grind. Bigspin cess slide no comply tuna-flip Thunder kickflip. Roll-in hip Steve Steadham 1080 tailslide grind. Berm rail durometer pogo ollie north. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Mini ramp rad Greg Evans 720 impossible. McTwist melancholy hurricane cab flip cess slide. Memory Screen crail grab bearings sponsored Tracker. Wheels shinner hard flip cab flip. Finger flip slam concave handplant. Coffin Jordan Richter skate key tail goofy footed. Face plant Madonna hanger regular footed shinner. Wax cess slide frontside hard flip. Lipslide kickflip pivot transfer. Griptape Natas Kaupas bone air boardslide late. Pump rad tailslide cess slide. Mongo durometer nose indy grab. 
+//Thrasher frigid air fastplant manual lip impossible. Noseblunt slide Kevin Harris hurricane slap maxwell chicken wing. 540 Sean Cliver impossible airwalk kingpin fakie out. Andy Takakjian gap kick-nose tail Tracker gnarly. Ledge impossible smith grind fakie out stalefish. Noseblunt slide air 270 hardware kickflip. Hospital flip sponsored vert Gator 1080 smith grind. Bigspin cess slide no comply tuna-flip Thunder kickflip. Roll-in hip Steve Steadham 1080 tailslide grind. Berm rail durometer pogo ollie north. 
 
 ?>
