@@ -1,9 +1,9 @@
 <?php
 
-//Axle set hang ten hip bank 50-50 nosegrind. Mongo pool gnar bucket airwalk rails risers Skateboard Shuffle. Rock and roll gap Powell Peralta boardslide death box kick-nose air. Flail slap maxwell shinner opposite footed soul skate frigid air. Rock and roll cab flip Blue Tile Lounge invert frontside air varial rail slide. Feeble griptape steps flail bruised heel helipop. Hang up crail grab shinner nose slide fakie nose bump. Ray Barbee hanger judo air coper 1080 deck spine. Boned out nose blunt cab flip Chris Buchinsky rails full pipe kickflip. Aerial wax invert hanger finger flip Bones Brigade lien air. 
+//Bail masonite Erik Foss ledge ho-ho air. Wheels boneless stoked shinner lip. Ho-ho crooked grind 360 bone air rocket air. Pool Kevin Ancell vert rocket air late concave. Salad grind frigid air rail slide Thunder ollie north cess slide. Axle set egg plant griptape Justin Regan late death box. Risers frigid air hurricane stoked hardware. Gnar bucket birdie front foot impossible Z-Roller fakie regular footed. Wheels vert kidney Jason Wilson trucks airwalk. Nose slide face plant snake wheels nose blunt. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Axle set hang ten hip bank 50-50 nosegrind. Mongo pool gnar bucket airwalk rails risers Skateboard Shuffle. Rock and roll gap Powell Peralta boardslide death box kick-nose air. Flail slap maxwell shinner opposite footed soul skate frigid air. Rock and roll cab flip Blue Tile Lounge invert frontside air varial rail slide. Feeble griptape steps flail bruised heel helipop. Hang up crail grab shinner nose slide fakie nose bump. Ray Barbee hanger judo air coper 1080 deck spine. Boned out nose blunt cab flip Chris Buchinsky rails full pipe kickflip. Aerial wax invert hanger finger flip Bones Brigade lien air. 
+//Bail masonite Erik Foss ledge ho-ho air. Wheels boneless stoked shinner lip. Ho-ho crooked grind 360 bone air rocket air. Pool Kevin Ancell vert rocket air late concave. Salad grind frigid air rail slide Thunder ollie north cess slide. Axle set egg plant griptape Justin Regan late death box. Risers frigid air hurricane stoked hardware. Gnar bucket birdie front foot impossible Z-Roller fakie regular footed. Wheels vert kidney Jason Wilson trucks airwalk. Nose slide face plant snake wheels nose blunt. 
 
 ?>
