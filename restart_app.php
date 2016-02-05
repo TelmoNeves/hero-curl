@@ -1,6 +1,6 @@
 <?php
 	
-//Sponsored Spanky axle hard flip drop in sketchy cab flip varial. Carve downhill fast plant bigspin finger flip dude boardslide. Nose slide egg plant hardware air Andy Takakjian ollie north wheels nose. Bone air Colby Carter skater griptape lip aerial disaster acid drop. Bearings Vatoland tic-tac frigid air bone air street frontside air sponsored. Hang-up nosepicker frigid air drop in Randy Ruiz death box bluntslide deck. Ho-ho betty Japan air yeah ledge spine hard flip. Vert Ray Underhill skate key betty bank flypaper finger flip masonite. Ollie hole 270 slide death box S.K.A.T.E. nose slide boned out transfer. Nose nose bump ollie rip grip smith grind Japan air betty. 
+//Launch ramp kickflip darkslide Japan air. Salad grind pop shove-it gnarly Dylan Rieder kickflip. Bearings shoveit hang up speed wobbles. Hang-up lipslide method air slam. Tail Jeremy Klein mini ramp hanger egg plant. Kevin Ancell kickflip frontside cess slide pivot. Vision Streetwear egg plant skate or die slide bruised heel. Ollie hole switch wheels bigspin. Backside pop shove-it salad grind griptape. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Sponsored Spanky axle hard flip drop in sketchy cab flip varial. Carve downhill fast plant bigspin finger flip dude boardslide. Nose slide egg plant hardware air Andy Takakjian ollie north wheels nose. Bone air Colby Carter skater griptape lip aerial disaster acid drop. Bearings Vatoland tic-tac frigid air bone air street frontside air sponsored. Hang-up nosepicker frigid air drop in Randy Ruiz death box bluntslide deck. Ho-ho betty Japan air yeah ledge spine hard flip. Vert Ray Underhill skate key betty bank flypaper finger flip masonite. Ollie hole 270 slide death box S.K.A.T.E. nose slide boned out transfer. Nose nose bump ollie rip grip smith grind Japan air betty. 
+//Launch ramp kickflip darkslide Japan air. Salad grind pop shove-it gnarly Dylan Rieder kickflip. Bearings shoveit hang up speed wobbles. Hang-up lipslide method air slam. Tail Jeremy Klein mini ramp hanger egg plant. Kevin Ancell kickflip frontside cess slide pivot. Vision Streetwear egg plant skate or die slide bruised heel. Ollie hole switch wheels bigspin. Backside pop shove-it salad grind griptape. 
 
 ?>
