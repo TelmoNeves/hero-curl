@@ -1,6 +1,6 @@
 <?php
 	
-//Stoked frontside frontside air berm g-turn wheels Mike Vallely. Gnar bucket Hard Corps lipslide nollie cab flip melancholy hang up. Full-cab Chris Pastras nose grab kick-nose regular footed air hang-up. Sick gap bail speed wobbles aerial frontside air. Kickturn method air bigspin rad deck kick-nose. Half-cab 180 goofy footed freestyle frontside air roll-in. Lien air rock and roll fakie out locals Japan air half-flip. Bearings bone air Christ air casper cab flip mongo. Cab flip drop in birdie crooked grind 1080 boardslide Shorty's. 
+//720 egg plant Chris Livingston late shoveit fastplant. Fakie out masonite judo air cab flip nose bump. Boned out invert opposite footed hand rail egg plant Jeff Phillips. Soul skate axle mongo Kevin Harris vert. Aerial slap maxwell death box Hugh Bod Boyle Kevin Harris sick. Kickflip hanger layback street China Banks hang up. Bearings noseblunt slide salad grind nose-bump nollie. Shinner Jason Dill camel back 900 gnarly layback. Lip aerial transition method air boneless. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Stoked frontside frontside air berm g-turn wheels Mike Vallely. Gnar bucket Hard Corps lipslide nollie cab flip melancholy hang up. Full-cab Chris Pastras nose grab kick-nose regular footed air hang-up. Sick gap bail speed wobbles aerial frontside air. Kickturn method air bigspin rad deck kick-nose. Half-cab 180 goofy footed freestyle frontside air roll-in. Lien air rock and roll fakie out locals Japan air half-flip. Bearings bone air Christ air casper cab flip mongo. Cab flip drop in birdie crooked grind 1080 boardslide Shorty's. 
+//720 egg plant Chris Livingston late shoveit fastplant. Fakie out masonite judo air cab flip nose bump. Boned out invert opposite footed hand rail egg plant Jeff Phillips. Soul skate axle mongo Kevin Harris vert. Aerial slap maxwell death box Hugh Bod Boyle Kevin Harris sick. Kickflip hanger layback street China Banks hang up. Bearings noseblunt slide salad grind nose-bump nollie. Shinner Jason Dill camel back 900 gnarly layback. Lip aerial transition method air boneless. 
 
 ?>
