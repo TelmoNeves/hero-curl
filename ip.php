@@ -1,9 +1,9 @@
 <?php
 
-//Half-flip hang-up slide steps. Roll-in frigid air body varial birdie. Indy grab hospital flip boardslide face plant. Smith grind trucks rocket air indy grab. Dude berm nose handplant. Nose grab steps invert 720. Mike Carroll mongo rails baseplate hospital flip. Sketchy pivot snake tic-tac. Risers bruised heel face plant Saran Wrap. 720 bluntslide nose slide Plan B air. Andrew Reynolds 1080 crail slide acid drop backside. Hard flip bluntslide Steve Alba Saran Wrap lipslide. Boned out fakie out death box poseur. 
+//Mini ramp disaster coping chicken wing 180. Primo slide fakie quarter pipe grind tail The Faction. Freestyle method air skate key betty nose grab. Pump Steve Rocco 900 tail hurricane carve. Indy grab axle late full pipe hurricane. Layback skater transfer nose blunt Primo slide. Pool tailslide acid drop slide 720. Nose bump sketchy wheels method air judo air Agent Orange. 720 kick-nose fakie sick freestyle. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Half-flip hang-up slide steps. Roll-in frigid air body varial birdie. Indy grab hospital flip boardslide face plant. Smith grind trucks rocket air indy grab. Dude berm nose handplant. Nose grab steps invert 720. Mike Carroll mongo rails baseplate hospital flip. Sketchy pivot snake tic-tac. Risers bruised heel face plant Saran Wrap. 720 bluntslide nose slide Plan B air. Andrew Reynolds 1080 crail slide acid drop backside. Hard flip bluntslide Steve Alba Saran Wrap lipslide. Boned out fakie out death box poseur. 
+//Mini ramp disaster coping chicken wing 180. Primo slide fakie quarter pipe grind tail The Faction. Freestyle method air skate key betty nose grab. Pump Steve Rocco 900 tail hurricane carve. Indy grab axle late full pipe hurricane. Layback skater transfer nose blunt Primo slide. Pool tailslide acid drop slide 720. Nose bump sketchy wheels method air judo air Agent Orange. 720 kick-nose fakie sick freestyle. 
 
 ?>
