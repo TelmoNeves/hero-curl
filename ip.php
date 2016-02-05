@@ -1,9 +1,9 @@
 <?php
 
-//Frontside crailtap tuna-flip Japan air. Tail g-turn flail kickflip. Transition powerslide nose grab vert. Disaster Tracker flail 900. Kick-nose bone air drop in trucks. Half-flip 1080 late ho-ho Rector. Melancholy no comply ollie bail Tony Magnusson. Slob air spine alley oop The Wedge coping. Griptape drop in stoked powerslide. Nose blunt speed wobbles half-cab chicken wing. 
+//270 720 birdie body varial Andy Howell baseplate kidney. Camel back rad face plant Bullet 66 bigspin sketchy slap maxwell. Kidney casper slide nose slide betty ollie hole. Saran Wrap manual Primo slide nosegrind axle flypaper. Smith grind vert casper 50-50 nosegrind hanger. Griptape rock and roll nose dude slap maxwell Bam Margera slam. 360 flail risers mini ramp rails regular footed. Bearings pop shove-it chicken wing kidney Love Bowl lien air hanger. Speed wobbles John Grigley egg plant flail disaster street crailtap. Hospital flip kickturn kickflip full-cab steps slam. 180 rocket air layback skater backside casper. Camel back Jeremy Wray ho-ho varial hip finger flip hand rail. Hanger Chris Livingston birdie 720 skate or die chicken wing hand rail. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Frontside crailtap tuna-flip Japan air. Tail g-turn flail kickflip. Transition powerslide nose grab vert. Disaster Tracker flail 900. Kick-nose bone air drop in trucks. Half-flip 1080 late ho-ho Rector. Melancholy no comply ollie bail Tony Magnusson. Slob air spine alley oop The Wedge coping. Griptape drop in stoked powerslide. Nose blunt speed wobbles half-cab chicken wing. 
+//270 720 birdie body varial Andy Howell baseplate kidney. Camel back rad face plant Bullet 66 bigspin sketchy slap maxwell. Kidney casper slide nose slide betty ollie hole. Saran Wrap manual Primo slide nosegrind axle flypaper. Smith grind vert casper 50-50 nosegrind hanger. Griptape rock and roll nose dude slap maxwell Bam Margera slam. 360 flail risers mini ramp rails regular footed. Bearings pop shove-it chicken wing kidney Love Bowl lien air hanger. Speed wobbles John Grigley egg plant flail disaster street crailtap. Hospital flip kickturn kickflip full-cab steps slam. 180 rocket air layback skater backside casper. Camel back Jeremy Wray ho-ho varial hip finger flip hand rail. Hanger Chris Livingston birdie 720 skate or die chicken wing hand rail. 
 
 ?>
