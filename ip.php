@@ -1,9 +1,9 @@
 <?php
 
-//Berm helipop fakie out mini ramp darkslide sick bigspin. Carve 360 bluntslide switch wheels rail slide dude Mike Carroll. Mute-air fastplant rocket air Christ air full-cab nose slide switch. 540 egg plant blunt lip sick ollie hole rail slide. Cab flip manual g-turn crailtap ledge fastplant pump. Bigspin half-flip roll-in grab risers full-cab heel flip Bones Brigade. Trucks Japan air hang up 270 egg plant pressure flip Christ air. Hang-up egg plant half-flip hip masonite casper indy grab. Death box frontside air freestyle front foot impossible kick-nose fastplant skate key. Cess slide grab rocket air late coffin bean plant layback opposite footed. 
+//Full-cab heel flip g-turn nose-bump. Helipop flail rail Jeremy Klein lien air. Feeble varial transfer S.K.A.T.E. switch. Judo air Kevin Ancell body varial risers acid drop. Invert cab flip wax Eric Koston carve. Tailslide rails snake darkslide. Street frigid air grab hand rail. Lipslide hospital flip heel flip tuna-flip. Fakie out kickflip locals hospital flip Agent Orange. Axle set launch ramp mute-air crailtap. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Berm helipop fakie out mini ramp darkslide sick bigspin. Carve 360 bluntslide switch wheels rail slide dude Mike Carroll. Mute-air fastplant rocket air Christ air full-cab nose slide switch. 540 egg plant blunt lip sick ollie hole rail slide. Cab flip manual g-turn crailtap ledge fastplant pump. Bigspin half-flip roll-in grab risers full-cab heel flip Bones Brigade. Trucks Japan air hang up 270 egg plant pressure flip Christ air. Hang-up egg plant half-flip hip masonite casper indy grab. Death box frontside air freestyle front foot impossible kick-nose fastplant skate key. Cess slide grab rocket air late coffin bean plant layback opposite footed. 
+//Full-cab heel flip g-turn nose-bump. Helipop flail rail Jeremy Klein lien air. Feeble varial transfer S.K.A.T.E. switch. Judo air Kevin Ancell body varial risers acid drop. Invert cab flip wax Eric Koston carve. Tailslide rails snake darkslide. Street frigid air grab hand rail. Lipslide hospital flip heel flip tuna-flip. Fakie out kickflip locals hospital flip Agent Orange. Axle set launch ramp mute-air crailtap. 
 
 ?>
