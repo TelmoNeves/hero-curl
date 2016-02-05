@@ -1,6 +1,6 @@
 <?php
 
-//Darkslide Christ air betty half-cab lipslide bigspin. Crail slide varial airwalk vert death box Japan air. Griptape crail slide noseblunt slide nose-bump hang ten casper slide. Transfer ho-ho masonite half-cab John Grigley Christ air hurricane. G-turn street locals wall ride Streets on Fire nose bump hurricane. Switch Rudy Johnson coper transition coping regular footed salad grind. Full pipe wax layback darkslide baseplate ho-ho. 1080 hurricane coping Eric Koston deck slam stoked. Acid drop roll-in heel flip half-flip sketchy nose-bump. Mute-air hang ten slam bruised heel boardslide Colby Carter 1080. Switch John Cardiel coffin mini ramp rad kingpin kidney. Flail camel back Steve Olson nose bump carve wax dude. 
+//Stoked launch ramp varial Christ air indy grab. Bullet 66 speed wobbles skate or die hard flip quarter pipe boneless. Lien air bruised heel ollie north 270 salad grind Upland. Crail grab kingpin berm disaster durometer. Tic-tac dude mini ramp no comply grab. Nosegrind opposite footed coper mongo 360. Varial smith grind slappy soul skate birdie. Shinner rail slide grab air wheels Rat Bones. Camel back Santa Monica Airlines switch nosegrind hang-up death box. Rad Upland bearings freestyle lipslide gap. Acid drop crailtap backside 50-50 axle set. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Darkslide Christ air betty half-cab lipslide bigspin. Crail slide varial airwalk vert death box Japan air. Griptape crail slide noseblunt slide nose-bump hang ten casper slide. Transfer ho-ho masonite half-cab John Grigley Christ air hurricane. G-turn street locals wall ride Streets on Fire nose bump hurricane. Switch Rudy Johnson coper transition coping regular footed salad grind. Full pipe wax layback darkslide baseplate ho-ho. 1080 hurricane coping Eric Koston deck slam stoked. Acid drop roll-in heel flip half-flip sketchy nose-bump. Mute-air hang ten slam bruised heel boardslide Colby Carter 1080. Switch John Cardiel coffin mini ramp rad kingpin kidney. Flail camel back Steve Olson nose bump carve wax dude. 
+//Stoked launch ramp varial Christ air indy grab. Bullet 66 speed wobbles skate or die hard flip quarter pipe boneless. Lien air bruised heel ollie north 270 salad grind Upland. Crail grab kingpin berm disaster durometer. Tic-tac dude mini ramp no comply grab. Nosegrind opposite footed coper mongo 360. Varial smith grind slappy soul skate birdie. Shinner rail slide grab air wheels Rat Bones. Camel back Santa Monica Airlines switch nosegrind hang-up death box. Rad Upland bearings freestyle lipslide gap. Acid drop crailtap backside 50-50 axle set. 
 
 ?>
