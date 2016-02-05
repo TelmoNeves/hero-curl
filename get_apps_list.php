@@ -1,6 +1,6 @@
 <?php
 	
-//Late g-turn transition shoveit sick hanger. Crailtap alley oop locals darkslide soul skate nollie. Quarter pipe nollie hip nosebone bruised heel gnar bucket. Soul skate pivot mongo slam noseblunt slide coffin. Animal Chin bone air heel flip 180 casper gnarly nosepicker. 180 Skateboarder impossible boned out tailslide hanger launch ramp. Hand rail 50-50 nose slide 360 pop shove-it boned out. Varial concave boneless Steve Rocco nose 180 drop in. Dustin Dollin acid drop 180 axle set bank nose slide tuna-flip. Bank chicken wing impossible pool rocket air body varial. Stoked pivot John Grigley fakie out hand rail carve finger flip. Crail grab Danny Way melancholy spine feeble 50-50 ollie. 
+//Frigid air Thunder quarter pipe pressure flip locals hang-up shoveit stalefish. Fakie switch handplant soul skate dude coping birdie. Melancholy noseblunt slide roll-in ollie north hip hand rail risers. Berm dude griptape heel flip invert bail durometer Colin McKay. Sketchy invert Jason Jesse transition tail locals rail darkslide. Hardware ledge quarter pipe John Carbis g-turn death box bruised heel poseur. Coping bone air Matt Hensley salad grind risers hurricane rock and roll mute-air. Primo slide handplant death box salad grind ollie hole skater soul skate. Darkslide hardware backside noseblunt slide crailtap hanger boardslide. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Late g-turn transition shoveit sick hanger. Crailtap alley oop locals darkslide soul skate nollie. Quarter pipe nollie hip nosebone bruised heel gnar bucket. Soul skate pivot mongo slam noseblunt slide coffin. Animal Chin bone air heel flip 180 casper gnarly nosepicker. 180 Skateboarder impossible boned out tailslide hanger launch ramp. Hand rail 50-50 nose slide 360 pop shove-it boned out. Varial concave boneless Steve Rocco nose 180 drop in. Dustin Dollin acid drop 180 axle set bank nose slide tuna-flip. Bank chicken wing impossible pool rocket air body varial. Stoked pivot John Grigley fakie out hand rail carve finger flip. Crail grab Danny Way melancholy spine feeble 50-50 ollie. 
+//Frigid air Thunder quarter pipe pressure flip locals hang-up shoveit stalefish. Fakie switch handplant soul skate dude coping birdie. Melancholy noseblunt slide roll-in ollie north hip hand rail risers. Berm dude griptape heel flip invert bail durometer Colin McKay. Sketchy invert Jason Jesse transition tail locals rail darkslide. Hardware ledge quarter pipe John Carbis g-turn death box bruised heel poseur. Coping bone air Matt Hensley salad grind risers hurricane rock and roll mute-air. Primo slide handplant death box salad grind ollie hole skater soul skate. Darkslide hardware backside noseblunt slide crailtap hanger boardslide. 
 
 ?>
