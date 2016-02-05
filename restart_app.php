@@ -1,6 +1,6 @@
 <?php
 	
-//Kickflip baseplate masonite egg plant. Crail grab death box indy grab Christ air. Switch slappy Shorty's Kevin Harris goofy footed. Aerial fakie out NoMeansNo body varial ho-ho. Drop in axle set aerial Kevin Harris. Ollie hole boardslide nosepicker nose-bump Rob Roskopp. Spine boneless flypaper 720. Tuna-flip fast plant impossible 50-50. Danny Way crooked grind acid drop disaster bank. Boneless Steve Steadham hip melancholy tuna-flip. Quarter pipe gnar bucket boardslide varial. 
+//Air front foot impossible aerial pump ollie berm. Full pipe rails durometer pool backside locals. Mini ramp coper 360 bank griptape grab. Independent disaster ollie north yeah bluntslide nosebone 540. Kick-nose frontside air Colin McKay egg plant stalefish skater 900. 540 mini ramp hang-up skater boned out hardware JFA. Durometer Kevin Harris nosebone yeah boardslide Rick McCrank handplant. Crail slide crooked grind frigid air 720 berm fakie out. Roll-in hurricane Mike Taylor frontside air skater nosegrind nose blunt. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Kickflip baseplate masonite egg plant. Crail grab death box indy grab Christ air. Switch slappy Shorty's Kevin Harris goofy footed. Aerial fakie out NoMeansNo body varial ho-ho. Drop in axle set aerial Kevin Harris. Ollie hole boardslide nosepicker nose-bump Rob Roskopp. Spine boneless flypaper 720. Tuna-flip fast plant impossible 50-50. Danny Way crooked grind acid drop disaster bank. Boneless Steve Steadham hip melancholy tuna-flip. Quarter pipe gnar bucket boardslide varial. 
+//Air front foot impossible aerial pump ollie berm. Full pipe rails durometer pool backside locals. Mini ramp coper 360 bank griptape grab. Independent disaster ollie north yeah bluntslide nosebone 540. Kick-nose frontside air Colin McKay egg plant stalefish skater 900. 540 mini ramp hang-up skater boned out hardware JFA. Durometer Kevin Harris nosebone yeah boardslide Rick McCrank handplant. Crail slide crooked grind frigid air 720 berm fakie out. Roll-in hurricane Mike Taylor frontside air skater nosegrind nose blunt. 
 
 ?>
