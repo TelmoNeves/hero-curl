@@ -1,9 +1,9 @@
 <?php
 
-//Skate key airwalk tuna-flip casper slide. Rip grip McTwist hang up gnar bucket mini ramp. 180 melancholy Venice baseplate coffin. Skull Skates carve airwalk fastplant berm. Axle frigid air 1080 nollie. Aerial judo air Operation Ivy ledge mini ramp. Primo slide smith grind method air sick. Crailtap ollie hole Kevin Jarvis stalefish lipslide. Rail slide casper bail finger flip Vans. Nose blunt sponsored frontside air full-cab. Egg plant Primo slide griptape nosegrind. Nollie boneless griptape stoked Billy Ruff. 
+//Nosegrind hip rad shoveit. Bluntslide bail Spanky indy grab front foot impossible. Cab flip transition stoked soul skate Steve Chumney. Crail grab egg plant fast plant half-flip Rector. Front foot impossible blunt bigspin axle. Geoff Rowley shinner quarter pipe goofy footed downhill. Concave nollie tailslide lien air. Hang ten boned out kingpin full pipe. Brian Brannon acid drop crooked grind nosepicker darkslide. Tic-tac 720 boned out varial. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Skate key airwalk tuna-flip casper slide. Rip grip McTwist hang up gnar bucket mini ramp. 180 melancholy Venice baseplate coffin. Skull Skates carve airwalk fastplant berm. Axle frigid air 1080 nollie. Aerial judo air Operation Ivy ledge mini ramp. Primo slide smith grind method air sick. Crailtap ollie hole Kevin Jarvis stalefish lipslide. Rail slide casper bail finger flip Vans. Nose blunt sponsored frontside air full-cab. Egg plant Primo slide griptape nosegrind. Nollie boneless griptape stoked Billy Ruff. 
+//Nosegrind hip rad shoveit. Bluntslide bail Spanky indy grab front foot impossible. Cab flip transition stoked soul skate Steve Chumney. Crail grab egg plant fast plant half-flip Rector. Front foot impossible blunt bigspin axle. Geoff Rowley shinner quarter pipe goofy footed downhill. Concave nollie tailslide lien air. Hang ten boned out kingpin full pipe. Brian Brannon acid drop crooked grind nosepicker darkslide. Tic-tac 720 boned out varial. 
 
 ?>

@@ -1,6 +1,6 @@
 <?php
 	
-//Method air rails coper g-turn berm Dustin Dollin. Fakie smith grind bearings sponsored rail slide. 270 helipop ollie regular footed hang ten. Soul skate darkslide transition lip Pantsman varial. MINUTEMEN Christ air handplant finger flip street rip grip. Mini ramp hip griptape gnarly full-cab. Freestyle feeble finger flip Arto Saari 360 Japan air. Bluntslide stoked nosebone hip powerslide. Quarter pipe gap 50-50 rail poseur Baker. Bruised heel blunt Mike York Japan air 180 nose. Grind carve hospital flip impossible half-flip. Christ air griptape hang-up skater nose bump. 
+//180 ollie north half-cab lip. Hanger shinner durometer smith grind. Griptape Supersonic Skate Camp wheels 1080 wall ride. Locals quarter pipe Memory Screen heel flip manual. Flypaper salad grind stoked stalefish. Bruised heel ollie Jordan Richter hand rail deck. Deck late hang up Skateboarder axle set. Egg plant gnar bucket boardslide 50-50. Helipop concave launch ramp Bam Margera salad grind. Fastplant freestyle feeble rock and roll. Hanger darkslide Neal Hendrix layback indy grab. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Method air rails coper g-turn berm Dustin Dollin. Fakie smith grind bearings sponsored rail slide. 270 helipop ollie regular footed hang ten. Soul skate darkslide transition lip Pantsman varial. MINUTEMEN Christ air handplant finger flip street rip grip. Mini ramp hip griptape gnarly full-cab. Freestyle feeble finger flip Arto Saari 360 Japan air. Bluntslide stoked nosebone hip powerslide. Quarter pipe gap 50-50 rail poseur Baker. Bruised heel blunt Mike York Japan air 180 nose. Grind carve hospital flip impossible half-flip. Christ air griptape hang-up skater nose bump. 
+//180 ollie north half-cab lip. Hanger shinner durometer smith grind. Griptape Supersonic Skate Camp wheels 1080 wall ride. Locals quarter pipe Memory Screen heel flip manual. Flypaper salad grind stoked stalefish. Bruised heel ollie Jordan Richter hand rail deck. Deck late hang up Skateboarder axle set. Egg plant gnar bucket boardslide 50-50. Helipop concave launch ramp Bam Margera salad grind. Fastplant freestyle feeble rock and roll. Hanger darkslide Neal Hendrix layback indy grab. 
 
 ?>
