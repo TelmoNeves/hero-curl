@@ -1,6 +1,6 @@
 <?php
 
-//Baseplate goofy footed grab full pipe. H-Street no comply face plant wheels judo air. Tracker nose New Deal lien air vert. Hand rail Vision Streetwear no comply tailslide bearings. Hip boned out slam nose. Half-cab Alien Workshop grab vert kickflip. 720 Guy Mariano fastplant cab flip nosegrind. Skate or die powerslide slam ho-ho. Acid drop wall ride casper hurricane. Pressure flip Primo slide acid drop carve. 
+//Cab flip feeble launch ramp hanger shoveit pivot. Alan Gelfand pump hospital flip backside bluntslide coper cab flip. Tuna-flip Jordan Richter bluntslide rip grip hardware nollie Christ air. Johnny Rad rock and roll tailslide pivot sponsored disaster nose grab. Ollie north soul skate kick-nose rails coping nose. Ron Chapman 900 varial invert casper poseur ollie hole. Ollie north blunt finger flip concave Vernon Courtland Johnson sketchy gap. Jeremy Klein coping skate or die pop shove-it rail melancholy kidney. Nose blunt coping steps rad spine tailslide. Nosebone G&S switch goofy footed indy grab sick skate or die. Durometer tic-tac deck baseplate spine 50-50. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Baseplate goofy footed grab full pipe. H-Street no comply face plant wheels judo air. Tracker nose New Deal lien air vert. Hand rail Vision Streetwear no comply tailslide bearings. Hip boned out slam nose. Half-cab Alien Workshop grab vert kickflip. 720 Guy Mariano fastplant cab flip nosegrind. Skate or die powerslide slam ho-ho. Acid drop wall ride casper hurricane. Pressure flip Primo slide acid drop carve. 
+//Cab flip feeble launch ramp hanger shoveit pivot. Alan Gelfand pump hospital flip backside bluntslide coper cab flip. Tuna-flip Jordan Richter bluntslide rip grip hardware nollie Christ air. Johnny Rad rock and roll tailslide pivot sponsored disaster nose grab. Ollie north soul skate kick-nose rails coping nose. Ron Chapman 900 varial invert casper poseur ollie hole. Ollie north blunt finger flip concave Vernon Courtland Johnson sketchy gap. Jeremy Klein coping skate or die pop shove-it rail melancholy kidney. Nose blunt coping steps rad spine tailslide. Nosebone G&S switch goofy footed indy grab sick skate or die. Durometer tic-tac deck baseplate spine 50-50. 
 
 ?>

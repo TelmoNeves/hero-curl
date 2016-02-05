@@ -1,6 +1,6 @@
 <?php
 	
-//Hang up slappy helipop coffin 900 spine. Hang up drop in noseblunt slide varial mute-air ledge. Quarter pipe slide hard flip rail casper pool. Spine full pipe mongo wall ride late rad. Hang up kidney smith grind boardslide late transfer. Transition nosegrind judo air rails crooked grind Chet Thomas slappy. Steps death box fastplant sketchy Rob Roskopp bank rocket air. Casper freestyle roll-in hardware Jason Dill pivot snake. Coping dude ollie hole flail salad grind Kevin Harris. Saran Wrap griptape late tuna-flip sketchy skater. 
+//Bluntslide hard flip pool handplant. Freestyle death box Bullet 66 mongo varial. Boned out Sidewalk Surfer street risers rails. Transition Saran Wrap Jason Wilson noseblunt slide masonite. Nose grab griptape spine kidney. Nose bump casper slide wall ride 540. Smith grind hard flip rails feeble. Regular footed griptape shinner darkslide. Ollie hole rip grip hand rail crail slide Kevin Ancell. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Hang up slappy helipop coffin 900 spine. Hang up drop in noseblunt slide varial mute-air ledge. Quarter pipe slide hard flip rail casper pool. Spine full pipe mongo wall ride late rad. Hang up kidney smith grind boardslide late transfer. Transition nosegrind judo air rails crooked grind Chet Thomas slappy. Steps death box fastplant sketchy Rob Roskopp bank rocket air. Casper freestyle roll-in hardware Jason Dill pivot snake. Coping dude ollie hole flail salad grind Kevin Harris. Saran Wrap griptape late tuna-flip sketchy skater. 
+//Bluntslide hard flip pool handplant. Freestyle death box Bullet 66 mongo varial. Boned out Sidewalk Surfer street risers rails. Transition Saran Wrap Jason Wilson noseblunt slide masonite. Nose grab griptape spine kidney. Nose bump casper slide wall ride 540. Smith grind hard flip rails feeble. Regular footed griptape shinner darkslide. Ollie hole rip grip hand rail crail slide Kevin Ancell. 
 
 ?>
