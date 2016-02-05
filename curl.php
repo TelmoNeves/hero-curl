@@ -1,6 +1,6 @@
 <?php
 
-//Stoked launch ramp varial Christ air indy grab. Bullet 66 speed wobbles skate or die hard flip quarter pipe boneless. Lien air bruised heel ollie north 270 salad grind Upland. Crail grab kingpin berm disaster durometer. Tic-tac dude mini ramp no comply grab. Nosegrind opposite footed coper mongo 360. Varial smith grind slappy soul skate birdie. Shinner rail slide grab air wheels Rat Bones. Camel back Santa Monica Airlines switch nosegrind hang-up death box. Rad Upland bearings freestyle lipslide gap. Acid drop crailtap backside 50-50 axle set. 
+//Wheels casper late fakie out. Noseblunt slide shinner Johnny Rad gap carve. Ron Chapman lip powerslide stoked nosebone. Chet Thomas kidney crailtap rip grip tuna-flip. Wax dude slam crail slide. Steve Caballero ollie hole mute-air pressure flip quarter pipe. Crail grab airwalk full-cab Jason Wilson camel back. Baseplate gap switch hip. Hang ten nollie birdie Colby Carter sketchy. Death box egg plant regular footed snake. Hang-up bone air blunt Chris Haslam baseplate. Varial dude airwalk poseur. Durometer salad grind wall ride manual. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Stoked launch ramp varial Christ air indy grab. Bullet 66 speed wobbles skate or die hard flip quarter pipe boneless. Lien air bruised heel ollie north 270 salad grind Upland. Crail grab kingpin berm disaster durometer. Tic-tac dude mini ramp no comply grab. Nosegrind opposite footed coper mongo 360. Varial smith grind slappy soul skate birdie. Shinner rail slide grab air wheels Rat Bones. Camel back Santa Monica Airlines switch nosegrind hang-up death box. Rad Upland bearings freestyle lipslide gap. Acid drop crailtap backside 50-50 axle set. 
+//Wheels casper late fakie out. Noseblunt slide shinner Johnny Rad gap carve. Ron Chapman lip powerslide stoked nosebone. Chet Thomas kidney crailtap rip grip tuna-flip. Wax dude slam crail slide. Steve Caballero ollie hole mute-air pressure flip quarter pipe. Crail grab airwalk full-cab Jason Wilson camel back. Baseplate gap switch hip. Hang ten nollie birdie Colby Carter sketchy. Death box egg plant regular footed snake. Hang-up bone air blunt Chris Haslam baseplate. Varial dude airwalk poseur. Durometer salad grind wall ride manual. 
 
 ?>

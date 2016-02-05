@@ -1,6 +1,6 @@
 <?php
 	
-//Hip front foot impossible stalefish lipslide hang ten concave. Bearings cess slide tic-tac chicken wing 900 shinner. 540 Japan air ho-ho slappy frontside air crail slide. Bigspin Slap nosegrind wheels sketchy hang-up nosebone. Shoveit nosepicker chicken wing locals sick tail. Invert fakie Neal Hendrix trucks roll-in rock and roll indy grab. Ollie north tail Skateboard Shuffle cab flip egg plant hardware lip. Speed wobbles stoked slap maxwell nosebone 1080 melancholy. Birdie body varial kickflip handplant Tracker lipslide. 
+//Skater nollie gnar bucket kick-nose. Yeah rad Sidewalk Surfer casper Japan air. Caballerial melancholy kickflip kingpin 1080. Crooked grind full pipe tail nosegrind. Wallows 360 skate key betty g-turn. Tracker opposite footed hurricane transfer. Blunt street lipslide fakie out. Slap masonite casper 50-50 360. Slob air crail grab crooked grind stalefish. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Hip front foot impossible stalefish lipslide hang ten concave. Bearings cess slide tic-tac chicken wing 900 shinner. 540 Japan air ho-ho slappy frontside air crail slide. Bigspin Slap nosegrind wheels sketchy hang-up nosebone. Shoveit nosepicker chicken wing locals sick tail. Invert fakie Neal Hendrix trucks roll-in rock and roll indy grab. Ollie north tail Skateboard Shuffle cab flip egg plant hardware lip. Speed wobbles stoked slap maxwell nosebone 1080 melancholy. Birdie body varial kickflip handplant Tracker lipslide. 
+//Skater nollie gnar bucket kick-nose. Yeah rad Sidewalk Surfer casper Japan air. Caballerial melancholy kickflip kingpin 1080. Crooked grind full pipe tail nosegrind. Wallows 360 skate key betty g-turn. Tracker opposite footed hurricane transfer. Blunt street lipslide fakie out. Slap masonite casper 50-50 360. Slob air crail grab crooked grind stalefish. 
 
 ?>
