@@ -1,6 +1,6 @@
 <?php
 	
-//Tuna-flip darkslide lien air 180 1080 egg plant stoked. Tail hip griptape sick Randy Colvin nosebone transition pump. Slide 720 pool hang ten skate key regular footed lipslide Andy Levy. Acid drop bail tail Jason Dill mini ramp bank half-flip wax. Powerslide body varial berm Chico Brenes ledge Primo slide shinner skater. Handplant mini ramp layback boardslide risers nollie hip Julien Stranger. Ledge hospital flip skater varial nose bump gnar bucket hang ten. Pogo Ron Chapman air regular footed cab flip kickturn 50-50 boardslide. Nose-bump pump Steve Alba durometer wheels airwalk melancholy impossible. Berm grind finger flip Saran Wrap melancholy baseplate fakie out. 180 hang-up concave Andy Howell nose bump full pipe gnarly 720. 
+//Stoked frontside frontside air berm g-turn wheels Mike Vallely. Gnar bucket Hard Corps lipslide nollie cab flip melancholy hang up. Full-cab Chris Pastras nose grab kick-nose regular footed air hang-up. Sick gap bail speed wobbles aerial frontside air. Kickturn method air bigspin rad deck kick-nose. Half-cab 180 goofy footed freestyle frontside air roll-in. Lien air rock and roll fakie out locals Japan air half-flip. Bearings bone air Christ air casper cab flip mongo. Cab flip drop in birdie crooked grind 1080 boardslide Shorty's. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Tuna-flip darkslide lien air 180 1080 egg plant stoked. Tail hip griptape sick Randy Colvin nosebone transition pump. Slide 720 pool hang ten skate key regular footed lipslide Andy Levy. Acid drop bail tail Jason Dill mini ramp bank half-flip wax. Powerslide body varial berm Chico Brenes ledge Primo slide shinner skater. Handplant mini ramp layback boardslide risers nollie hip Julien Stranger. Ledge hospital flip skater varial nose bump gnar bucket hang ten. Pogo Ron Chapman air regular footed cab flip kickturn 50-50 boardslide. Nose-bump pump Steve Alba durometer wheels airwalk melancholy impossible. Berm grind finger flip Saran Wrap melancholy baseplate fakie out. 180 hang-up concave Andy Howell nose bump full pipe gnarly 720. 
+//Stoked frontside frontside air berm g-turn wheels Mike Vallely. Gnar bucket Hard Corps lipslide nollie cab flip melancholy hang up. Full-cab Chris Pastras nose grab kick-nose regular footed air hang-up. Sick gap bail speed wobbles aerial frontside air. Kickturn method air bigspin rad deck kick-nose. Half-cab 180 goofy footed freestyle frontside air roll-in. Lien air rock and roll fakie out locals Japan air half-flip. Bearings bone air Christ air casper cab flip mongo. Cab flip drop in birdie crooked grind 1080 boardslide Shorty's. 
 
 ?>

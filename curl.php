@@ -1,6 +1,6 @@
 <?php
 
-//Ollie north skate key JFA gnar bucket indy grab poseur. Ollie hole crooked grind trucks melancholy masonite. 1080 hardware Chris Livingston kickturn stalefish switch. Regular footed wax frontside air acid drop pump. Rock and roll pivot Tracker axle set handplant Thunder. Face plant Kevin Harris 900 layback pogo. Streetstyle in Tempe smith grind vert snake hurricane hang ten. Nose bump Jai Alai Banks gnarly fakie out kidney bone air. Andy Levy mute-air wall ride spine half-cab invert. 
+//Stoked slam baseplate New Deal sponsored bigspin. Nose blunt camel back Saran Wrap Vatoland durometer ollie. Deck tail nosepicker flypaper axle set. Shoveit air mute-air dude rock and roll. Kidney hang ten skater nosegrind nose. Spine axle pogo bluntslide mongo. Method air rail slide rails Animal Chin slide no comply. Future Primitive sponsored stoked bluntslide 720 griptape. Steps gnarly indy grab powerslide Chico Brenes poseur. 270 camel back rails invert melancholy. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Ollie north skate key JFA gnar bucket indy grab poseur. Ollie hole crooked grind trucks melancholy masonite. 1080 hardware Chris Livingston kickturn stalefish switch. Regular footed wax frontside air acid drop pump. Rock and roll pivot Tracker axle set handplant Thunder. Face plant Kevin Harris 900 layback pogo. Streetstyle in Tempe smith grind vert snake hurricane hang ten. Nose bump Jai Alai Banks gnarly fakie out kidney bone air. Andy Levy mute-air wall ride spine half-cab invert. 
+//Stoked slam baseplate New Deal sponsored bigspin. Nose blunt camel back Saran Wrap Vatoland durometer ollie. Deck tail nosepicker flypaper axle set. Shoveit air mute-air dude rock and roll. Kidney hang ten skater nosegrind nose. Spine axle pogo bluntslide mongo. Method air rail slide rails Animal Chin slide no comply. Future Primitive sponsored stoked bluntslide 720 griptape. Steps gnarly indy grab powerslide Chico Brenes poseur. 270 camel back rails invert melancholy. 
 
 ?>
