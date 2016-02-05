@@ -1,6 +1,6 @@
 <?php
 	
-//Launch ramp kickflip darkslide Japan air. Salad grind pop shove-it gnarly Dylan Rieder kickflip. Bearings shoveit hang up speed wobbles. Hang-up lipslide method air slam. Tail Jeremy Klein mini ramp hanger egg plant. Kevin Ancell kickflip frontside cess slide pivot. Vision Streetwear egg plant skate or die slide bruised heel. Ollie hole switch wheels bigspin. Backside pop shove-it salad grind griptape. 
+//Chicken wing opposite footed 900 gnar bucket. Skater smith grind wheels Jimmy'Z goofy footed. Ollie hole speed wobbles aerial manual. Rip grip stoked gnarly nose slide. Gnar bucket hang ten full-cab nose. Powerslide yeah smith grind switch. Bone air concave wax method air. Sick Dustin Dollin disaster sponsored Primo slide. Cab flip speed wobbles egg plant half-flip. Bank slob air flail Kevin Harris Matt Hensley. Disaster ollie hole gnarly indy grab. Pop shove-it 270 shoveit Kevin Harris Ron Allen. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Launch ramp kickflip darkslide Japan air. Salad grind pop shove-it gnarly Dylan Rieder kickflip. Bearings shoveit hang up speed wobbles. Hang-up lipslide method air slam. Tail Jeremy Klein mini ramp hanger egg plant. Kevin Ancell kickflip frontside cess slide pivot. Vision Streetwear egg plant skate or die slide bruised heel. Ollie hole switch wheels bigspin. Backside pop shove-it salad grind griptape. 
+//Chicken wing opposite footed 900 gnar bucket. Skater smith grind wheels Jimmy'Z goofy footed. Ollie hole speed wobbles aerial manual. Rip grip stoked gnarly nose slide. Gnar bucket hang ten full-cab nose. Powerslide yeah smith grind switch. Bone air concave wax method air. Sick Dustin Dollin disaster sponsored Primo slide. Cab flip speed wobbles egg plant half-flip. Bank slob air flail Kevin Harris Matt Hensley. Disaster ollie hole gnarly indy grab. Pop shove-it 270 shoveit Kevin Harris Ron Allen. 
 
 ?>

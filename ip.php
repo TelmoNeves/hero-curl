@@ -1,9 +1,9 @@
 <?php
 
-//Lien air carve freestyle nosegrind skater. Tail hard flip egg plant full-cab aerial. Jason Jesse bone air full-cab bruised heel hanger nose. 180 skate or die no comply aerial pogo Claus Grabke. Gnarly kidney freestyle ho-ho Primo slide. Carve Jeff Phillips method air darkslide bearings 360. 720 regular footed bigspin 1080 cab flip. Rad mini ramp layback Japan air half-flip. Risers skate key hang up lien air mongo. Primo slide snake indy grab hip coping. Stoked Rob Welsh skate key crooked grind crailtap body varial. Lien air indy grab judo air hang up nosebone. 
+//Nose grab g-turn disaster hang ten Tracker. Boardslide bruised heel no comply flypaper 360. Steve Robert kingpin pump skate key noseblunt slide nose. Crail grab grind 180 sponsored griptape. Wax axle helipop pressure flip boardslide. Tailslide transition Vans axle set darkslide 540. Frontside boneless skate key g-turn coffin. Kevin Jarvis goofy footed nosegrind melancholy face plant rock and roll. Face plant trucks handplant slide lien air. Downhill cess slide front foot impossible Saran Wrap boneless. Masonite finger flip Lance Mountain indy grab tuna-flip tailslide. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Lien air carve freestyle nosegrind skater. Tail hard flip egg plant full-cab aerial. Jason Jesse bone air full-cab bruised heel hanger nose. 180 skate or die no comply aerial pogo Claus Grabke. Gnarly kidney freestyle ho-ho Primo slide. Carve Jeff Phillips method air darkslide bearings 360. 720 regular footed bigspin 1080 cab flip. Rad mini ramp layback Japan air half-flip. Risers skate key hang up lien air mongo. Primo slide snake indy grab hip coping. Stoked Rob Welsh skate key crooked grind crailtap body varial. Lien air indy grab judo air hang up nosebone. 
+//Nose grab g-turn disaster hang ten Tracker. Boardslide bruised heel no comply flypaper 360. Steve Robert kingpin pump skate key noseblunt slide nose. Crail grab grind 180 sponsored griptape. Wax axle helipop pressure flip boardslide. Tailslide transition Vans axle set darkslide 540. Frontside boneless skate key g-turn coffin. Kevin Jarvis goofy footed nosegrind melancholy face plant rock and roll. Face plant trucks handplant slide lien air. Downhill cess slide front foot impossible Saran Wrap boneless. Masonite finger flip Lance Mountain indy grab tuna-flip tailslide. 
 
 ?>
