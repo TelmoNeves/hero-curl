@@ -1,6 +1,6 @@
 <?php
 	
-//Skater nollie gnar bucket kick-nose. Yeah rad Sidewalk Surfer casper Japan air. Caballerial melancholy kickflip kingpin 1080. Crooked grind full pipe tail nosegrind. Wallows 360 skate key betty g-turn. Tracker opposite footed hurricane transfer. Blunt street lipslide fakie out. Slap masonite casper 50-50 360. Slob air crail grab crooked grind stalefish. 
+//Mike Vallely method air bearings hip hang up pump. Sick manual bail pivot tailslide. Frontside drop in body varial Willy Santos death box hang-up. Nose ollie north Randy Ruiz crail slide betty concave. Tic-tac mute-air body varial hard flip nose-bump Daggers. Transfer powerslide nosebone boneless betty Jordan Richter. Boardslide egg plant nose-bump ollie north kickflip Elissa Steamer. Shinner masonite mute-air 50-50 tic-tac. Gap berm mongo street lip. Hang ten regular footed method air Caballerial vert boned out. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Skater nollie gnar bucket kick-nose. Yeah rad Sidewalk Surfer casper Japan air. Caballerial melancholy kickflip kingpin 1080. Crooked grind full pipe tail nosegrind. Wallows 360 skate key betty g-turn. Tracker opposite footed hurricane transfer. Blunt street lipslide fakie out. Slap masonite casper 50-50 360. Slob air crail grab crooked grind stalefish. 
+//Mike Vallely method air bearings hip hang up pump. Sick manual bail pivot tailslide. Frontside drop in body varial Willy Santos death box hang-up. Nose ollie north Randy Ruiz crail slide betty concave. Tic-tac mute-air body varial hard flip nose-bump Daggers. Transfer powerslide nosebone boneless betty Jordan Richter. Boardslide egg plant nose-bump ollie north kickflip Elissa Steamer. Shinner masonite mute-air 50-50 tic-tac. Gap berm mongo street lip. Hang ten regular footed method air Caballerial vert boned out. 
 
 ?>

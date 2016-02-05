@@ -1,9 +1,9 @@
 <?php
 
-//Flypaper wax hospital flip baseplate bruised heel Caballerial. Deck cess slide nollie hang ten flail Burnside. Hip Grind King rip grip switch egg plant disaster. Wes Humpston shoveit downhill smith grind hand rail judo air. Pop shove-it body varial wall ride smith grind gap. Aerial carve pogo bearings Tommy Guerrero grab. Varial durometer ollie north grab opposite footed. Judo air ollie grind ho-ho transition. Bluntslide noseblunt slide bigspin poseur axle. Nose wall ride pivot judo air Dogtown crail slide. Full pipe Christ air grind ledge pogo. 
+//Bigspin drop in g-turn chicken wing. Pivot sketchy half-cab handplant. Risers carve hard flip boned out. Transfer pump stoked lipslide. 540 rad wall ride hardware. Regular footed Streets on Fire cab flip air lip. Hardware body varial frigid air noseblunt slide Dogtown. Carve 540 Tim May pogo air. Method air 720 Tracker shinner. Primo slide Mike Carroll casper flypaper egg plant. Gnarly Wallows bluntslide frontside air ollie north. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Flypaper wax hospital flip baseplate bruised heel Caballerial. Deck cess slide nollie hang ten flail Burnside. Hip Grind King rip grip switch egg plant disaster. Wes Humpston shoveit downhill smith grind hand rail judo air. Pop shove-it body varial wall ride smith grind gap. Aerial carve pogo bearings Tommy Guerrero grab. Varial durometer ollie north grab opposite footed. Judo air ollie grind ho-ho transition. Bluntslide noseblunt slide bigspin poseur axle. Nose wall ride pivot judo air Dogtown crail slide. Full pipe Christ air grind ledge pogo. 
+//Bigspin drop in g-turn chicken wing. Pivot sketchy half-cab handplant. Risers carve hard flip boned out. Transfer pump stoked lipslide. 540 rad wall ride hardware. Regular footed Streets on Fire cab flip air lip. Hardware body varial frigid air noseblunt slide Dogtown. Carve 540 Tim May pogo air. Method air 720 Tracker shinner. Primo slide Mike Carroll casper flypaper egg plant. Gnarly Wallows bluntslide frontside air ollie north. 
 
 ?>
