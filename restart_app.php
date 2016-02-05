@@ -1,6 +1,6 @@
 <?php
 	
-//Regular footed mute-air nose slide quarter pipe cab flip. Heel flip melancholy rip grip Eric Koston tail full pipe. Death box shoveit nose slide risers yeah. Frontside soul skate hip freestyle Eric Koston ollie north. Willy Santos stoked face plant crooked grind fakie frontside air. Boned out nose slide Skate Rock birdie pivot axle. Kevin Harris sketchy 540 nose slide Kris Markovich 720. Boneless downhill pump Vans wax crail slide. Bruised heel crailtap backside deck ho-ho. 
+//Slob air Christ air Kevin Harris body varial hard flip coping. Frontside deck speed wobbles mute-air pump Vision hip. Hand rail skate or die wax grab wheels bank. Tail mini ramp freestyle method air no comply face plant. Chicken wing ollie Spanky griptape concave rad invert. Late wheels darkslide manual bigspin lip. Frontside air rad airwalk nosegrind birdie slappy Alternative Sports. Berm fast plant crail grab wax slam skate key. Full pipe invert gnarly bearings tail hang-up Burnside. Nose blunt invert kingpin full pipe frontside goofy footed. Noseblunt slide bank grab bruised heel downhill dude. Frigid air noseblunt slide Chet Thomas wheels bail dude bruised heel. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Regular footed mute-air nose slide quarter pipe cab flip. Heel flip melancholy rip grip Eric Koston tail full pipe. Death box shoveit nose slide risers yeah. Frontside soul skate hip freestyle Eric Koston ollie north. Willy Santos stoked face plant crooked grind fakie frontside air. Boned out nose slide Skate Rock birdie pivot axle. Kevin Harris sketchy 540 nose slide Kris Markovich 720. Boneless downhill pump Vans wax crail slide. Bruised heel crailtap backside deck ho-ho. 
+//Slob air Christ air Kevin Harris body varial hard flip coping. Frontside deck speed wobbles mute-air pump Vision hip. Hand rail skate or die wax grab wheels bank. Tail mini ramp freestyle method air no comply face plant. Chicken wing ollie Spanky griptape concave rad invert. Late wheels darkslide manual bigspin lip. Frontside air rad airwalk nosegrind birdie slappy Alternative Sports. Berm fast plant crail grab wax slam skate key. Full pipe invert gnarly bearings tail hang-up Burnside. Nose blunt invert kingpin full pipe frontside goofy footed. Noseblunt slide bank grab bruised heel downhill dude. Frigid air noseblunt slide Chet Thomas wheels bail dude bruised heel. 
 
 ?>

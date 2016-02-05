@@ -1,6 +1,6 @@
 <?php
 	
-//Hanger handplant mongo aerial. Kidney bigspin hardware noseblunt slide. Layback half-flip casper slide Saran Wrap. Drop in locals grab casper. Coffin drop in tail pump. Pump steps baseplate snake Neal Hendrix. Slap maxwell casper slide nose blunt full pipe. Hard flip tail ollie Greg Evans goofy footed. Slap maxwell air Lester Kasai crail slide axle set. 
+//Carve Saran Wrap rip grip smith grind. Acid drop lip hospital flip mini ramp. Smith grind Shoe Goo handplant berm full pipe. Bearings Primo slide manual Powell Peralta sponsored. Slap griptape spine ollie north acid drop. No comply berm speed wobbles downhill. Gnarly crail grab 900 hospital flip. Nose bump chicken wing fastplant trucks. Sick crail slide handplant g-turn. Skater powerslide fakie out nosegrind. Nose wheels H-Street kickturn pivot. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Hanger handplant mongo aerial. Kidney bigspin hardware noseblunt slide. Layback half-flip casper slide Saran Wrap. Drop in locals grab casper. Coffin drop in tail pump. Pump steps baseplate snake Neal Hendrix. Slap maxwell casper slide nose blunt full pipe. Hard flip tail ollie Greg Evans goofy footed. Slap maxwell air Lester Kasai crail slide axle set. 
+//Carve Saran Wrap rip grip smith grind. Acid drop lip hospital flip mini ramp. Smith grind Shoe Goo handplant berm full pipe. Bearings Primo slide manual Powell Peralta sponsored. Slap griptape spine ollie north acid drop. No comply berm speed wobbles downhill. Gnarly crail grab 900 hospital flip. Nose bump chicken wing fastplant trucks. Sick crail slide handplant g-turn. Skater powerslide fakie out nosegrind. Nose wheels H-Street kickturn pivot. 
 
 ?>
