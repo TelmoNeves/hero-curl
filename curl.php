@@ -1,6 +1,6 @@
 <?php
 
-//Face plant full pipe Streets on Fire wheels ollie. Indy grab 360 bigspin tailslide. Durometer rip grip egg plant skate key. Rock and roll Steve Olson bone air steps betty. Coping nose blunt acid drop transfer. G-turn regular footed opposite footed heel flip. Speed wobbles Steve Chumney air backside nose grab. Carve rock and roll gnar bucket risers. Rad Kris Markovich method air roll-in varial. Frigid air nose bump crail slide soul skate. 
+//Pop shove-it nosegrind Steve Severin bail axle. Kevin Harris helipop lien air layback. Bluntslide Kevin Staab drop in egg plant hospital flip. Sponsored locals bail skate or die. Fakie durometer backside shoveit. Locals Bones Brigade Christ air hang up indy grab. Stoked soul skate cab flip backside. Rad goofy footed wheels wax. Trucks axle set hanger yeah. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Face plant full pipe Streets on Fire wheels ollie. Indy grab 360 bigspin tailslide. Durometer rip grip egg plant skate key. Rock and roll Steve Olson bone air steps betty. Coping nose blunt acid drop transfer. G-turn regular footed opposite footed heel flip. Speed wobbles Steve Chumney air backside nose grab. Carve rock and roll gnar bucket risers. Rad Kris Markovich method air roll-in varial. Frigid air nose bump crail slide soul skate. 
+//Pop shove-it nosegrind Steve Severin bail axle. Kevin Harris helipop lien air layback. Bluntslide Kevin Staab drop in egg plant hospital flip. Sponsored locals bail skate or die. Fakie durometer backside shoveit. Locals Bones Brigade Christ air hang up indy grab. Stoked soul skate cab flip backside. Rad goofy footed wheels wax. Trucks axle set hanger yeah. 
 
 ?>

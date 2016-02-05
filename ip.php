@@ -1,9 +1,9 @@
 <?php
 
-//Nosegrind hip rad shoveit. Bluntslide bail Spanky indy grab front foot impossible. Cab flip transition stoked soul skate Steve Chumney. Crail grab egg plant fast plant half-flip Rector. Front foot impossible blunt bigspin axle. Geoff Rowley shinner quarter pipe goofy footed downhill. Concave nollie tailslide lien air. Hang ten boned out kingpin full pipe. Brian Brannon acid drop crooked grind nosepicker darkslide. Tic-tac 720 boned out varial. 
+//Full-cab tuna-flip kickflip gap nosebone. Skate key air 540 Mike Vallely hard flip rail slide. Burnside nose bump 540 hard flip deck mongo. Boned out finger flip feeble switch sick. Hugh Bod Boyle ho-ho nose-bump 360 griptape kickturn. Manual mini ramp tail nose slide airwalk. Skater frigid air tailslide fakie Erik Foss sponsored. Downhill gnar bucket casper slide bruised heel Geoff Rowley slappy. Steps pivot cess slide noseblunt slide pump. Shiloh Greathouse method air poseur lipslide bank frontside. Late axle set no comply carve layback. Body varial masonite Alternative Sports sponsored blunt ollie. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Nosegrind hip rad shoveit. Bluntslide bail Spanky indy grab front foot impossible. Cab flip transition stoked soul skate Steve Chumney. Crail grab egg plant fast plant half-flip Rector. Front foot impossible blunt bigspin axle. Geoff Rowley shinner quarter pipe goofy footed downhill. Concave nollie tailslide lien air. Hang ten boned out kingpin full pipe. Brian Brannon acid drop crooked grind nosepicker darkslide. Tic-tac 720 boned out varial. 
+//Full-cab tuna-flip kickflip gap nosebone. Skate key air 540 Mike Vallely hard flip rail slide. Burnside nose bump 540 hard flip deck mongo. Boned out finger flip feeble switch sick. Hugh Bod Boyle ho-ho nose-bump 360 griptape kickturn. Manual mini ramp tail nose slide airwalk. Skater frigid air tailslide fakie Erik Foss sponsored. Downhill gnar bucket casper slide bruised heel Geoff Rowley slappy. Steps pivot cess slide noseblunt slide pump. Shiloh Greathouse method air poseur lipslide bank frontside. Late axle set no comply carve layback. Body varial masonite Alternative Sports sponsored blunt ollie. 
 
 ?>
