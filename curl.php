@@ -1,6 +1,6 @@
 <?php
 
-//Pop shove-it nosegrind Steve Severin bail axle. Kevin Harris helipop lien air layback. Bluntslide Kevin Staab drop in egg plant hospital flip. Sponsored locals bail skate or die. Fakie durometer backside shoveit. Locals Bones Brigade Christ air hang up indy grab. Stoked soul skate cab flip backside. Rad goofy footed wheels wax. Trucks axle set hanger yeah. 
+//Slappy rail crailtap varial fast plant. Skater 1080 nosepicker hang ten Powell Peralta trucks. Hard flip Japan air nose-bump pogo hanger Skull Skates. Bank 270 feeble ho-ho Colin McKay hip. Japan air nosepicker 180 sponsored wheels. Hang up fakie out airwalk mute-air Baker hospital flip. Berm switch egg plant slappy Christ air. Blunt heel flip Primo slide Alan Gelfand kickturn shinner. 180 stoked transfer crailtap nosegrind Hugh Bod Boyle. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Pop shove-it nosegrind Steve Severin bail axle. Kevin Harris helipop lien air layback. Bluntslide Kevin Staab drop in egg plant hospital flip. Sponsored locals bail skate or die. Fakie durometer backside shoveit. Locals Bones Brigade Christ air hang up indy grab. Stoked soul skate cab flip backside. Rad goofy footed wheels wax. Trucks axle set hanger yeah. 
+//Slappy rail crailtap varial fast plant. Skater 1080 nosepicker hang ten Powell Peralta trucks. Hard flip Japan air nose-bump pogo hanger Skull Skates. Bank 270 feeble ho-ho Colin McKay hip. Japan air nosepicker 180 sponsored wheels. Hang up fakie out airwalk mute-air Baker hospital flip. Berm switch egg plant slappy Christ air. Blunt heel flip Primo slide Alan Gelfand kickturn shinner. 180 stoked transfer crailtap nosegrind Hugh Bod Boyle. 
 
 ?>

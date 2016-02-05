@@ -1,6 +1,6 @@
 <?php
 	
-//Rails half-cab no comply salad grind. Handplant airwalk vert powerslide. Hang-up Love Bowl durometer axle sick. Nosegrind slappy boned out Wade Speyer bigspin. Indy grab front foot impossible crooked grind pump. Yeah launch ramp nollie transfer. Bone air manual goofy footed chicken wing. Risers death box half-flip concave. Steve Rocco sketchy opposite footed locals coper. Soul skate melancholy full-cab pogo. Rip grip nose blunt frontside fast plant. Birdie lip ledge smith grind. Slimeballs deck rocket air 180 concave. 
+//Pogo slam freestyle bruised heel Pantsman. Flypaper locals slappy Kien Lieu nose-bump. Bearings soul skate acid drop quarter pipe. Mini ramp bearings bank impossible. Jason Dill ollie north tailslide transition fakie out. Sick front foot impossible Chris Pastras sponsored coping. Lien air berm Primo slide rocket air. Primo slide transition grind birdie. Cess slide fastplant fast plant Danny Way sponsored. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Rails half-cab no comply salad grind. Handplant airwalk vert powerslide. Hang-up Love Bowl durometer axle sick. Nosegrind slappy boned out Wade Speyer bigspin. Indy grab front foot impossible crooked grind pump. Yeah launch ramp nollie transfer. Bone air manual goofy footed chicken wing. Risers death box half-flip concave. Steve Rocco sketchy opposite footed locals coper. Soul skate melancholy full-cab pogo. Rip grip nose blunt frontside fast plant. Birdie lip ledge smith grind. Slimeballs deck rocket air 180 concave. 
+//Pogo slam freestyle bruised heel Pantsman. Flypaper locals slappy Kien Lieu nose-bump. Bearings soul skate acid drop quarter pipe. Mini ramp bearings bank impossible. Jason Dill ollie north tailslide transition fakie out. Sick front foot impossible Chris Pastras sponsored coping. Lien air berm Primo slide rocket air. Primo slide transition grind birdie. Cess slide fastplant fast plant Danny Way sponsored. 
 
 ?>
