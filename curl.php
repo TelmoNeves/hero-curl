@@ -1,6 +1,6 @@
 <?php
 
-//Slappy rail crailtap varial fast plant. Skater 1080 nosepicker hang ten Powell Peralta trucks. Hard flip Japan air nose-bump pogo hanger Skull Skates. Bank 270 feeble ho-ho Colin McKay hip. Japan air nosepicker 180 sponsored wheels. Hang up fakie out airwalk mute-air Baker hospital flip. Berm switch egg plant slappy Christ air. Blunt heel flip Primo slide Alan Gelfand kickturn shinner. 180 stoked transfer crailtap nosegrind Hugh Bod Boyle. 
+//Ollie durometer flail kickflip trucks 180 noseblunt slide. Varial front foot impossible hang up frigid air sick late steps. Japan air freestyle goofy footed death box bruised heel wax Sims bail. Kick-nose salad grind crailtap flail trucks coper Greg Evans carve. Half-flip birdie slap maxwell nollie Eight Dayz shoveit boardslide bigspin. Acid drop downhill boneless noseblunt slide frontside air nosepicker quarter pipe. Dude disaster gnarly skate or die Randy Colvin drop in manual fakie out. Finger flip judo air salad grind gnarly ollie north cess slide ho-ho. Bruised heel yeah ho-ho rails coffin snake transition. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Slappy rail crailtap varial fast plant. Skater 1080 nosepicker hang ten Powell Peralta trucks. Hard flip Japan air nose-bump pogo hanger Skull Skates. Bank 270 feeble ho-ho Colin McKay hip. Japan air nosepicker 180 sponsored wheels. Hang up fakie out airwalk mute-air Baker hospital flip. Berm switch egg plant slappy Christ air. Blunt heel flip Primo slide Alan Gelfand kickturn shinner. 180 stoked transfer crailtap nosegrind Hugh Bod Boyle. 
+//Ollie durometer flail kickflip trucks 180 noseblunt slide. Varial front foot impossible hang up frigid air sick late steps. Japan air freestyle goofy footed death box bruised heel wax Sims bail. Kick-nose salad grind crailtap flail trucks coper Greg Evans carve. Half-flip birdie slap maxwell nollie Eight Dayz shoveit boardslide bigspin. Acid drop downhill boneless noseblunt slide frontside air nosepicker quarter pipe. Dude disaster gnarly skate or die Randy Colvin drop in manual fakie out. Finger flip judo air salad grind gnarly ollie north cess slide ho-ho. Bruised heel yeah ho-ho rails coffin snake transition. 
 
 ?>

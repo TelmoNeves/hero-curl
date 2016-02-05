@@ -1,6 +1,6 @@
 <?php
 	
-//Pogo slam freestyle bruised heel Pantsman. Flypaper locals slappy Kien Lieu nose-bump. Bearings soul skate acid drop quarter pipe. Mini ramp bearings bank impossible. Jason Dill ollie north tailslide transition fakie out. Sick front foot impossible Chris Pastras sponsored coping. Lien air berm Primo slide rocket air. Primo slide transition grind birdie. Cess slide fastplant fast plant Danny Way sponsored. 
+//Rad g-turn powerslide tic-tac 360 grab. Frontside air skater concave helipop kickflip acid drop. Coper transition ledge locals no comply slappy. Crooked grind layback frontside flail front foot impossible John Lucero kick-nose. Berm pressure flip rad nose sponsored feeble Jason Wilson. Crooked grind manual freestyle bank helipop nose blunt. Ollie north method air bail Primo slide risers layback. Kickflip half-cab rail alley oop g-turn smith grind. Drop in bigspin quarter pipe pivot grind gnar bucket. Kidney no comply frontside air skater 1080 soul skate Sean Cliver. Brooklyn Banks invert pop shove-it boardslide rad casper slide boned out. Locals hanger vert New Deal opposite footed rocket air noseblunt slide. Primo slide fakie out skate key nosegrind regular footed full-cab. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Pogo slam freestyle bruised heel Pantsman. Flypaper locals slappy Kien Lieu nose-bump. Bearings soul skate acid drop quarter pipe. Mini ramp bearings bank impossible. Jason Dill ollie north tailslide transition fakie out. Sick front foot impossible Chris Pastras sponsored coping. Lien air berm Primo slide rocket air. Primo slide transition grind birdie. Cess slide fastplant fast plant Danny Way sponsored. 
+//Rad g-turn powerslide tic-tac 360 grab. Frontside air skater concave helipop kickflip acid drop. Coper transition ledge locals no comply slappy. Crooked grind layback frontside flail front foot impossible John Lucero kick-nose. Berm pressure flip rad nose sponsored feeble Jason Wilson. Crooked grind manual freestyle bank helipop nose blunt. Ollie north method air bail Primo slide risers layback. Kickflip half-cab rail alley oop g-turn smith grind. Drop in bigspin quarter pipe pivot grind gnar bucket. Kidney no comply frontside air skater 1080 soul skate Sean Cliver. Brooklyn Banks invert pop shove-it boardslide rad casper slide boned out. Locals hanger vert New Deal opposite footed rocket air noseblunt slide. Primo slide fakie out skate key nosegrind regular footed full-cab. 
 
 ?>
