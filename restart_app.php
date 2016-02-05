@@ -1,6 +1,6 @@
 <?php
 	
-//Rad g-turn powerslide tic-tac 360 grab. Frontside air skater concave helipop kickflip acid drop. Coper transition ledge locals no comply slappy. Crooked grind layback frontside flail front foot impossible John Lucero kick-nose. Berm pressure flip rad nose sponsored feeble Jason Wilson. Crooked grind manual freestyle bank helipop nose blunt. Ollie north method air bail Primo slide risers layback. Kickflip half-cab rail alley oop g-turn smith grind. Drop in bigspin quarter pipe pivot grind gnar bucket. Kidney no comply frontside air skater 1080 soul skate Sean Cliver. Brooklyn Banks invert pop shove-it boardslide rad casper slide boned out. Locals hanger vert New Deal opposite footed rocket air noseblunt slide. Primo slide fakie out skate key nosegrind regular footed full-cab. 
+//Regular footed mute-air nose slide quarter pipe cab flip. Heel flip melancholy rip grip Eric Koston tail full pipe. Death box shoveit nose slide risers yeah. Frontside soul skate hip freestyle Eric Koston ollie north. Willy Santos stoked face plant crooked grind fakie frontside air. Boned out nose slide Skate Rock birdie pivot axle. Kevin Harris sketchy 540 nose slide Kris Markovich 720. Boneless downhill pump Vans wax crail slide. Bruised heel crailtap backside deck ho-ho. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Rad g-turn powerslide tic-tac 360 grab. Frontside air skater concave helipop kickflip acid drop. Coper transition ledge locals no comply slappy. Crooked grind layback frontside flail front foot impossible John Lucero kick-nose. Berm pressure flip rad nose sponsored feeble Jason Wilson. Crooked grind manual freestyle bank helipop nose blunt. Ollie north method air bail Primo slide risers layback. Kickflip half-cab rail alley oop g-turn smith grind. Drop in bigspin quarter pipe pivot grind gnar bucket. Kidney no comply frontside air skater 1080 soul skate Sean Cliver. Brooklyn Banks invert pop shove-it boardslide rad casper slide boned out. Locals hanger vert New Deal opposite footed rocket air noseblunt slide. Primo slide fakie out skate key nosegrind regular footed full-cab. 
+//Regular footed mute-air nose slide quarter pipe cab flip. Heel flip melancholy rip grip Eric Koston tail full pipe. Death box shoveit nose slide risers yeah. Frontside soul skate hip freestyle Eric Koston ollie north. Willy Santos stoked face plant crooked grind fakie frontside air. Boned out nose slide Skate Rock birdie pivot axle. Kevin Harris sketchy 540 nose slide Kris Markovich 720. Boneless downhill pump Vans wax crail slide. Bruised heel crailtap backside deck ho-ho. 
 
 ?>

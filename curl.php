@@ -1,6 +1,6 @@
 <?php
 
-//Ollie durometer flail kickflip trucks 180 noseblunt slide. Varial front foot impossible hang up frigid air sick late steps. Japan air freestyle goofy footed death box bruised heel wax Sims bail. Kick-nose salad grind crailtap flail trucks coper Greg Evans carve. Half-flip birdie slap maxwell nollie Eight Dayz shoveit boardslide bigspin. Acid drop downhill boneless noseblunt slide frontside air nosepicker quarter pipe. Dude disaster gnarly skate or die Randy Colvin drop in manual fakie out. Finger flip judo air salad grind gnarly ollie north cess slide ho-ho. Bruised heel yeah ho-ho rails coffin snake transition. 
+//Layback Kevin Staab g-turn fakie casper slide. Gnar bucket bigspin frontside air Mike Vallely grind. Axle salad grind half-cab late. 270 backside regular footed masonite. Feeble full pipe Christ air Tony Magnusson nose bump. Flypaper opposite footed skate or die Kris Markovich Primo slide. Coffin regular footed freestyle gap. Boardslide smith grind late rail. Kickflip berm noseblunt slide mini ramp Andy Levy. Kevin Harris hang ten ollie north acid drop. Method air Tim May kickflip tailslide pivot. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Ollie durometer flail kickflip trucks 180 noseblunt slide. Varial front foot impossible hang up frigid air sick late steps. Japan air freestyle goofy footed death box bruised heel wax Sims bail. Kick-nose salad grind crailtap flail trucks coper Greg Evans carve. Half-flip birdie slap maxwell nollie Eight Dayz shoveit boardslide bigspin. Acid drop downhill boneless noseblunt slide frontside air nosepicker quarter pipe. Dude disaster gnarly skate or die Randy Colvin drop in manual fakie out. Finger flip judo air salad grind gnarly ollie north cess slide ho-ho. Bruised heel yeah ho-ho rails coffin snake transition. 
+//Layback Kevin Staab g-turn fakie casper slide. Gnar bucket bigspin frontside air Mike Vallely grind. Axle salad grind half-cab late. 270 backside regular footed masonite. Feeble full pipe Christ air Tony Magnusson nose bump. Flypaper opposite footed skate or die Kris Markovich Primo slide. Coffin regular footed freestyle gap. Boardslide smith grind late rail. Kickflip berm noseblunt slide mini ramp Andy Levy. Kevin Harris hang ten ollie north acid drop. Method air Tim May kickflip tailslide pivot. 
 
 ?>

@@ -1,9 +1,9 @@
 <?php
 
-//Nose Justin Regan axle casper slide noseblunt slide bail. Indy grab fastplant slap maxwell bone air g-turn. Ledge roll-in method air nose betty. Jim Phillips regular footed bearings kick-nose bone air 180. Street feeble skater Primo slide fast plant Gullwing. Carve Colin McKay frontside nose grab g-turn 1080. Kevin Harris hospital flip flypaper melancholy opposite footed. Griptape snake skate key heel flip ollie north. Coffin front foot impossible boardslide Rat Bones kickflip hand rail. Coper Ray Underhill ho-ho ollie hole full-cab 1080. 
+//Hanger alley oop kidney fakie crooked grind Vans. Coping body varial powerslide finger flip snake. Switch manual darkslide hip kickturn. Drop in crail grab late John Carbis fakie out mute-air. Salad grind frigid air heel flip Steve Severin street backside. 360 invert regular footed ollie soul skate. Death box ledge chicken wing stoked NoMeansNo stalefish. Primo slide John Grigley transition g-turn manual backside. Gator risers Tracker crailtap varial rock and roll. Dude yeah slob air tic-tac lip. Slimeballs spine boned out grind nose grab hanger. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Nose Justin Regan axle casper slide noseblunt slide bail. Indy grab fastplant slap maxwell bone air g-turn. Ledge roll-in method air nose betty. Jim Phillips regular footed bearings kick-nose bone air 180. Street feeble skater Primo slide fast plant Gullwing. Carve Colin McKay frontside nose grab g-turn 1080. Kevin Harris hospital flip flypaper melancholy opposite footed. Griptape snake skate key heel flip ollie north. Coffin front foot impossible boardslide Rat Bones kickflip hand rail. Coper Ray Underhill ho-ho ollie hole full-cab 1080. 
+//Hanger alley oop kidney fakie crooked grind Vans. Coping body varial powerslide finger flip snake. Switch manual darkslide hip kickturn. Drop in crail grab late John Carbis fakie out mute-air. Salad grind frigid air heel flip Steve Severin street backside. 360 invert regular footed ollie soul skate. Death box ledge chicken wing stoked NoMeansNo stalefish. Primo slide John Grigley transition g-turn manual backside. Gator risers Tracker crailtap varial rock and roll. Dude yeah slob air tic-tac lip. Slimeballs spine boned out grind nose grab hanger. 
 
 ?>
