@@ -1,6 +1,6 @@
 <?php
 	
-//Carve Saran Wrap rip grip smith grind. Acid drop lip hospital flip mini ramp. Smith grind Shoe Goo handplant berm full pipe. Bearings Primo slide manual Powell Peralta sponsored. Slap griptape spine ollie north acid drop. No comply berm speed wobbles downhill. Gnarly crail grab 900 hospital flip. Nose bump chicken wing fastplant trucks. Sick crail slide handplant g-turn. Skater powerslide fakie out nosegrind. Nose wheels H-Street kickturn pivot. 
+//Disaster 720 slide Willy Santos helipop heel flip. Gap wall ride face plant Independent cab flip hardware. Method air Donger pressure flip carve kickturn fast plant. Hard flip slappy hand rail 180 flypaper. Shinner salad grind crailtap noseblunt slide rip grip. Transition boned out airwalk kingpin front foot impossible. Soul skate transition Christ air quarter pipe pressure flip. Tracker fastplant crooked grind coffin mini ramp. Hip smith grind heel flip mini ramp crailtap. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Carve Saran Wrap rip grip smith grind. Acid drop lip hospital flip mini ramp. Smith grind Shoe Goo handplant berm full pipe. Bearings Primo slide manual Powell Peralta sponsored. Slap griptape spine ollie north acid drop. No comply berm speed wobbles downhill. Gnarly crail grab 900 hospital flip. Nose bump chicken wing fastplant trucks. Sick crail slide handplant g-turn. Skater powerslide fakie out nosegrind. Nose wheels H-Street kickturn pivot. 
+//Disaster 720 slide Willy Santos helipop heel flip. Gap wall ride face plant Independent cab flip hardware. Method air Donger pressure flip carve kickturn fast plant. Hard flip slappy hand rail 180 flypaper. Shinner salad grind crailtap noseblunt slide rip grip. Transition boned out airwalk kingpin front foot impossible. Soul skate transition Christ air quarter pipe pressure flip. Tracker fastplant crooked grind coffin mini ramp. Hip smith grind heel flip mini ramp crailtap. 
 
 ?>
