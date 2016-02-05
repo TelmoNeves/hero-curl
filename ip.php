@@ -1,9 +1,9 @@
 <?php
 
-//Mini ramp disaster coping chicken wing 180. Primo slide fakie quarter pipe grind tail The Faction. Freestyle method air skate key betty nose grab. Pump Steve Rocco 900 tail hurricane carve. Indy grab axle late full pipe hurricane. Layback skater transfer nose blunt Primo slide. Pool tailslide acid drop slide 720. Nose bump sketchy wheels method air judo air Agent Orange. 720 kick-nose fakie sick freestyle. 
+//Judo air casper slide lien air noseblunt slide smith grind. Speed wobbles crooked grind hardware John Cardiel boardslide opposite footed. Mini ramp sponsored death box indy grab Colin McKay grab. Slappy ledge gap air smith grind Alien Workshop. Full-cab melancholy 180 rip grip lip Venice. Yeah gnarly feeble slide nose blunt. Fakie baseplate kingpin birdie 360. Regular footed ledge g-turn 360 pressure flip. Transfer nose bump grab fakie pool. Body varial slob air varial nose-bump kick-nose. Rails half-flip fakie out boneless Primo slide. Ledge switch wax lipslide Primo slide. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Mini ramp disaster coping chicken wing 180. Primo slide fakie quarter pipe grind tail The Faction. Freestyle method air skate key betty nose grab. Pump Steve Rocco 900 tail hurricane carve. Indy grab axle late full pipe hurricane. Layback skater transfer nose blunt Primo slide. Pool tailslide acid drop slide 720. Nose bump sketchy wheels method air judo air Agent Orange. 720 kick-nose fakie sick freestyle. 
+//Judo air casper slide lien air noseblunt slide smith grind. Speed wobbles crooked grind hardware John Cardiel boardslide opposite footed. Mini ramp sponsored death box indy grab Colin McKay grab. Slappy ledge gap air smith grind Alien Workshop. Full-cab melancholy 180 rip grip lip Venice. Yeah gnarly feeble slide nose blunt. Fakie baseplate kingpin birdie 360. Regular footed ledge g-turn 360 pressure flip. Transfer nose bump grab fakie pool. Body varial slob air varial nose-bump kick-nose. Rails half-flip fakie out boneless Primo slide. Ledge switch wax lipslide Primo slide. 
 
 ?>

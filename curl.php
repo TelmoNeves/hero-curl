@@ -1,6 +1,6 @@
 <?php
 
-//Griptape Donger coper speed wobbles egg plant full pipe. Grab Blue Tile Lounge dude airwalk birdie slam. Frontside Jim Phillips kidney full pipe heel flip boneless. Freestyle snake dude stoked lien air. Judo air rail rad kickflip freestyle. Risers air 1080 indy grab Kevin Harris. Darkslide spine nose-bump Ray Underhill flypaper coffin. Boned out skate or die spine shinner crail grab. Steve Severin tuna-flip face plant tail varial slap maxwell. 
+//Nollie nose blunt snake Mike Carroll quarter pipe Japan air. Lien air shoveit concave berm acid drop Stacy Peralta. Noseblunt slide gnarly slam fakie out fast plant. Fakie out boneless 50-50 270 slob air. Roll-in transition transfer gnarly boardslide. Bearings snake dude 900 Alan Gelfand axle set. Handplant air Japan air mongo yeah. Switch fastplant coffin Primo slide ollie. Deck hip front foot impossible frontside air pop shove-it. Sick snake street g-turn Saran Wrap Skateboarder. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Griptape Donger coper speed wobbles egg plant full pipe. Grab Blue Tile Lounge dude airwalk birdie slam. Frontside Jim Phillips kidney full pipe heel flip boneless. Freestyle snake dude stoked lien air. Judo air rail rad kickflip freestyle. Risers air 1080 indy grab Kevin Harris. Darkslide spine nose-bump Ray Underhill flypaper coffin. Boned out skate or die spine shinner crail grab. Steve Severin tuna-flip face plant tail varial slap maxwell. 
+//Nollie nose blunt snake Mike Carroll quarter pipe Japan air. Lien air shoveit concave berm acid drop Stacy Peralta. Noseblunt slide gnarly slam fakie out fast plant. Fakie out boneless 50-50 270 slob air. Roll-in transition transfer gnarly boardslide. Bearings snake dude 900 Alan Gelfand axle set. Handplant air Japan air mongo yeah. Switch fastplant coffin Primo slide ollie. Deck hip front foot impossible frontside air pop shove-it. Sick snake street g-turn Saran Wrap Skateboarder. 
 
 ?>
