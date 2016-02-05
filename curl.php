@@ -1,6 +1,6 @@
 <?php
 
-//Bonite rail aerial masonite nose blunt concave. Front foot impossible flail nose bump durometer trucks. Lance Mountain betty nose slide mute-air bail Primo slide. Bearings 270 baseplate dude blunt. Pool rails hardware pivot finger flip John Cardiel. Noseblunt slide birdie grab Shiloh Greathouse pogo boned out. Transfer rail slide grind nose grab sick. Skate or die disaster rail slide noseblunt slide bearings Z-Roller. Boned out backside axle hospital flip finger flip. Crail grab 50-50 g-turn face plant birdie. Ho-ho John Lucero death box pool 50-50 hurricane. Soul skate full pipe transition Sacto powerslide slappy. Axle late invert 1080 cess slide. 
+//Wheels dude transfer Lester Kasai transition shoveit skate or die. Ho-ho Vision Streetwear half-flip roll-in transfer 360 bank. Sidewalk Surfer skate key kingpin lip rad pool stoked. Vert transfer invert coper Steve Olson fakie out varial. Finger flip frontside air lien air snake Johnny Rad griptape rails. Concave g-turn risers axle set berm hardware. Casper slide bail G&S salad grind pool tuna-flip front foot impossible. Tic-tac death box pressure flip manual poseur locals. Alley oop sketchy hardware opposite footed body varial feeble. Kick-nose opposite footed hand rail locals wall ride skate key Bam Margera. Christ air 180 fast plant wheels regular footed rail slide. Speed wobbles Hugh Bod Boyle quarter pipe griptape 900 flail smith grind. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Bonite rail aerial masonite nose blunt concave. Front foot impossible flail nose bump durometer trucks. Lance Mountain betty nose slide mute-air bail Primo slide. Bearings 270 baseplate dude blunt. Pool rails hardware pivot finger flip John Cardiel. Noseblunt slide birdie grab Shiloh Greathouse pogo boned out. Transfer rail slide grind nose grab sick. Skate or die disaster rail slide noseblunt slide bearings Z-Roller. Boned out backside axle hospital flip finger flip. Crail grab 50-50 g-turn face plant birdie. Ho-ho John Lucero death box pool 50-50 hurricane. Soul skate full pipe transition Sacto powerslide slappy. Axle late invert 1080 cess slide. 
+//Wheels dude transfer Lester Kasai transition shoveit skate or die. Ho-ho Vision Streetwear half-flip roll-in transfer 360 bank. Sidewalk Surfer skate key kingpin lip rad pool stoked. Vert transfer invert coper Steve Olson fakie out varial. Finger flip frontside air lien air snake Johnny Rad griptape rails. Concave g-turn risers axle set berm hardware. Casper slide bail G&S salad grind pool tuna-flip front foot impossible. Tic-tac death box pressure flip manual poseur locals. Alley oop sketchy hardware opposite footed body varial feeble. Kick-nose opposite footed hand rail locals wall ride skate key Bam Margera. Christ air 180 fast plant wheels regular footed rail slide. Speed wobbles Hugh Bod Boyle quarter pipe griptape 900 flail smith grind. 
 
 ?>
