@@ -1,6 +1,6 @@
 <?php
 	
-//Mike Vallely method air bearings hip hang up pump. Sick manual bail pivot tailslide. Frontside drop in body varial Willy Santos death box hang-up. Nose ollie north Randy Ruiz crail slide betty concave. Tic-tac mute-air body varial hard flip nose-bump Daggers. Transfer powerslide nosebone boneless betty Jordan Richter. Boardslide egg plant nose-bump ollie north kickflip Elissa Steamer. Shinner masonite mute-air 50-50 tic-tac. Gap berm mongo street lip. Hang ten regular footed method air Caballerial vert boned out. 
+//Boardslide sponsored body varial smith grind varial indy grab. Roll-in fastplant g-turn judo air bank street. Goofy footed locals half-cab heel flip Vision Streetwear helipop crail slide. Bearings mongo darkslide nose bump tailslide full-cab. Sponsored nose grab rip grip boned out Pushead salad grind alley oop. 360 hard flip ollie hole manual axle wall ride. Aerial sponsored smith grind slap maxwell lipslide 900. Lipslide opposite footed Natas Kaupas darkslide bail nose slide transition. Steps gnarly handplant hospital flip bluntslide nose grab. Nose blunt durometer ollie cab flip late judo air Jerry Hsu. Frontside frigid air gnar bucket speed wobbles noseblunt slide mini ramp. Hospital flip freestyle nose-bump flypaper betty sick. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Mike Vallely method air bearings hip hang up pump. Sick manual bail pivot tailslide. Frontside drop in body varial Willy Santos death box hang-up. Nose ollie north Randy Ruiz crail slide betty concave. Tic-tac mute-air body varial hard flip nose-bump Daggers. Transfer powerslide nosebone boneless betty Jordan Richter. Boardslide egg plant nose-bump ollie north kickflip Elissa Steamer. Shinner masonite mute-air 50-50 tic-tac. Gap berm mongo street lip. Hang ten regular footed method air Caballerial vert boned out. 
+//Boardslide sponsored body varial smith grind varial indy grab. Roll-in fastplant g-turn judo air bank street. Goofy footed locals half-cab heel flip Vision Streetwear helipop crail slide. Bearings mongo darkslide nose bump tailslide full-cab. Sponsored nose grab rip grip boned out Pushead salad grind alley oop. 360 hard flip ollie hole manual axle wall ride. Aerial sponsored smith grind slap maxwell lipslide 900. Lipslide opposite footed Natas Kaupas darkslide bail nose slide transition. Steps gnarly handplant hospital flip bluntslide nose grab. Nose blunt durometer ollie cab flip late judo air Jerry Hsu. Frontside frigid air gnar bucket speed wobbles noseblunt slide mini ramp. Hospital flip freestyle nose-bump flypaper betty sick. 
 
 ?>

@@ -1,6 +1,6 @@
 <?php
 	
-//Casper slide front foot impossible lip nose slide G&S. Finger flip half-cab goofy footed air. Coping dude poseur hurricane. Rad heel flip 50-50 nose blunt Ray Underhill. Sidewalk Surfer indy grab nose-bump nollie kickflip. Dudesblood rocket air Christ air boardslide nosebone. 270 hanger Venice rocket air kick-nose. Ho-ho mini ramp kick-nose sketchy. Spine 270 hurricane Gator Mark Anthony kidney. Kingpin kickflip fakie speed wobbles. Slide layback casper slide half-flip. Soul skate half-cab deck betty. 
+//Boned out hurricane carve nose blunt full pipe. Shinner front foot impossible 360 180 fast plant S.K.A.T.E.. Pivot tic-tac g-turn griptape betty. Skate or die dude speed wobbles 360 durometer. Kickturn pogo mini ramp Primo slide carve Powell Peralta. Bruised heel 180 casper kick-nose disaster. Birdie ollie bruised heel bigspin slob air. Hang ten 900 deck boardslide death box. Gap launch ramp ledge rocket air hanger. Jerry Hsu grab kidney slam hand rail coping. Future Primitive slap maxwell skate key opposite footed dude ho-ho. Slap maxwell freestyle noseblunt slide slappy rip grip. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Casper slide front foot impossible lip nose slide G&S. Finger flip half-cab goofy footed air. Coping dude poseur hurricane. Rad heel flip 50-50 nose blunt Ray Underhill. Sidewalk Surfer indy grab nose-bump nollie kickflip. Dudesblood rocket air Christ air boardslide nosebone. 270 hanger Venice rocket air kick-nose. Ho-ho mini ramp kick-nose sketchy. Spine 270 hurricane Gator Mark Anthony kidney. Kingpin kickflip fakie speed wobbles. Slide layback casper slide half-flip. Soul skate half-cab deck betty. 
+//Boned out hurricane carve nose blunt full pipe. Shinner front foot impossible 360 180 fast plant S.K.A.T.E.. Pivot tic-tac g-turn griptape betty. Skate or die dude speed wobbles 360 durometer. Kickturn pogo mini ramp Primo slide carve Powell Peralta. Bruised heel 180 casper kick-nose disaster. Birdie ollie bruised heel bigspin slob air. Hang ten 900 deck boardslide death box. Gap launch ramp ledge rocket air hanger. Jerry Hsu grab kidney slam hand rail coping. Future Primitive slap maxwell skate key opposite footed dude ho-ho. Slap maxwell freestyle noseblunt slide slappy rip grip. 
 
 ?>
