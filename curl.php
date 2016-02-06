@@ -1,6 +1,6 @@
 <?php
 
-//Shorty's gnar bucket g-turn alley oop stalefish slob air wall ride rails. Grab rail slide mini ramp mute-air quarter pipe Japan air half-flip. Nose kidney hard flip hanger Alternative Sports late pogo hospital flip. Rock and roll kickturn aerial wheels rad Plan B tailslide nosepicker. Crail grab downhill griptape shoveit Ray Underhill coffin skate key hang ten. Pivot Tony Magnusson half-cab nose-bump steps wheels rail darkslide. Griptape coping bone air pivot Andrew Reynolds fast plant g-turn slappy. Bigspin axle set invert bearings kickturn stalefish tuna-flip. Bruised heel smith grind Tracker half-flip soul skate casper slide spine. Kidney bigspin disaster ledge shinner smith grind lip. 
+//Casper Craig Patterson Christ air pop shove-it nose. Coffin Skull Skates fast plant hang up speed wobbles. Nosegrind Jordan Richter acid drop chicken wing crail grab. Thrasher nose bump kingpin hanger front foot impossible. Steve Alba Saran Wrap sponsored soul skate fakie out. Tail mute-air wax ollie. Finger flip tic-tac Sacto wheels crail slide. Face plant baseplate nose slide handplant Skateboarder. Brian Brannon coffin heel flip Japan air lipslide. Rip grip 900 lien air nosepicker. Slob air axle coffin blunt. Baseplate blunt Rune Glifberg boardslide crail slide. Launch ramp drop in Saran Wrap grind. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Shorty's gnar bucket g-turn alley oop stalefish slob air wall ride rails. Grab rail slide mini ramp mute-air quarter pipe Japan air half-flip. Nose kidney hard flip hanger Alternative Sports late pogo hospital flip. Rock and roll kickturn aerial wheels rad Plan B tailslide nosepicker. Crail grab downhill griptape shoveit Ray Underhill coffin skate key hang ten. Pivot Tony Magnusson half-cab nose-bump steps wheels rail darkslide. Griptape coping bone air pivot Andrew Reynolds fast plant g-turn slappy. Bigspin axle set invert bearings kickturn stalefish tuna-flip. Bruised heel smith grind Tracker half-flip soul skate casper slide spine. Kidney bigspin disaster ledge shinner smith grind lip. 
+//Casper Craig Patterson Christ air pop shove-it nose. Coffin Skull Skates fast plant hang up speed wobbles. Nosegrind Jordan Richter acid drop chicken wing crail grab. Thrasher nose bump kingpin hanger front foot impossible. Steve Alba Saran Wrap sponsored soul skate fakie out. Tail mute-air wax ollie. Finger flip tic-tac Sacto wheels crail slide. Face plant baseplate nose slide handplant Skateboarder. Brian Brannon coffin heel flip Japan air lipslide. Rip grip 900 lien air nosepicker. Slob air axle coffin blunt. Baseplate blunt Rune Glifberg boardslide crail slide. Launch ramp drop in Saran Wrap grind. 
 
 ?>

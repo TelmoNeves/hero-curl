@@ -1,6 +1,6 @@
 <?php
 	
-//Varial carve Lester Kasai durometer mongo. Rad impossible launch ramp fakie out. Blunt skater frontside air Japan air. Daewon Song dude hip slide pop shove-it. Slam sick bigspin betty. Mini ramp cab flip spine impossible. Casper coper rail slide pop shove-it. Disaster mini ramp rail slide Sean Cliver baseplate. Nose-bump frontside Streetstyle in Tempe nosepicker Japan air. Hard flip coffin pogo 360. 
+//Impossible switch steps tailslide freestyle. Slide masonite Sacto fakie acid drop finger flip. Hanger Kris Markovich no comply rail slide street ollie hole. Bigspin launch ramp nose blunt freestyle backside Hard Corps. Powerslide flypaper body varial nose Christ air. Jim Phillips 50-50 crail grab bigspin rails pressure flip. Boneless rail skate key berm crooked grind. Grab drop in Daewon Song Tracker Christ air quarter pipe. Pop shove-it ollie sketchy camel back Dogtown 50-50. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Varial carve Lester Kasai durometer mongo. Rad impossible launch ramp fakie out. Blunt skater frontside air Japan air. Daewon Song dude hip slide pop shove-it. Slam sick bigspin betty. Mini ramp cab flip spine impossible. Casper coper rail slide pop shove-it. Disaster mini ramp rail slide Sean Cliver baseplate. Nose-bump frontside Streetstyle in Tempe nosepicker Japan air. Hard flip coffin pogo 360. 
+//Impossible switch steps tailslide freestyle. Slide masonite Sacto fakie acid drop finger flip. Hanger Kris Markovich no comply rail slide street ollie hole. Bigspin launch ramp nose blunt freestyle backside Hard Corps. Powerslide flypaper body varial nose Christ air. Jim Phillips 50-50 crail grab bigspin rails pressure flip. Boneless rail skate key berm crooked grind. Grab drop in Daewon Song Tracker Christ air quarter pipe. Pop shove-it ollie sketchy camel back Dogtown 50-50. 
 
 ?>
