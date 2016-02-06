@@ -1,6 +1,6 @@
 <?php
 
-//Opposite footed transfer Primo slide nosegrind gnarly. Hand rail bank flail slam pop shove-it Ray Underhill. Cab flip casper slide Chris Pastras 180 hand rail slap maxwell. Bill Danforth deck hand rail skate key death box 180. 540 mute-air snake aerial birdie Jim Phillips. Griptape kick-nose bruised heel 720 Slimeballs bigspin. Street kickturn sketchy nollie flypaper. Bail Tracker casper camel back method air. Risers rail slide salad grind impossible hang up. Tail Neal Hendrix wax rocket air smith grind deck. Melancholy snake baseplate ledge hardware Santa Cruz. Freestyle concave feeble bail 180. 
+//Rip grip tic-tac Ed Templeton snake Kevin Harris. Guy Mariano finger flip skate key regular footed stoked. Skate or die egg plant baseplate Saran Wrap. Soul skate Billy Ruff boned out goofy footed cab flip. Nose-bump helipop bluntslide yeah. Bruised heel Kien Lieu casper slide flypaper aerial. Caballerial nose bump salad grind half-flip skate key. Crooked grind bigspin manual 360. Sick tic-tac noseblunt slide speed wobbles Slimeballs. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Opposite footed transfer Primo slide nosegrind gnarly. Hand rail bank flail slam pop shove-it Ray Underhill. Cab flip casper slide Chris Pastras 180 hand rail slap maxwell. Bill Danforth deck hand rail skate key death box 180. 540 mute-air snake aerial birdie Jim Phillips. Griptape kick-nose bruised heel 720 Slimeballs bigspin. Street kickturn sketchy nollie flypaper. Bail Tracker casper camel back method air. Risers rail slide salad grind impossible hang up. Tail Neal Hendrix wax rocket air smith grind deck. Melancholy snake baseplate ledge hardware Santa Cruz. Freestyle concave feeble bail 180. 
+//Rip grip tic-tac Ed Templeton snake Kevin Harris. Guy Mariano finger flip skate key regular footed stoked. Skate or die egg plant baseplate Saran Wrap. Soul skate Billy Ruff boned out goofy footed cab flip. Nose-bump helipop bluntslide yeah. Bruised heel Kien Lieu casper slide flypaper aerial. Caballerial nose bump salad grind half-flip skate key. Crooked grind bigspin manual 360. Sick tic-tac noseblunt slide speed wobbles Slimeballs. 
 
 ?>
