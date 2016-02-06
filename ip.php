@@ -1,9 +1,9 @@
 <?php
 
-//Rip grip rail frigid air varial. Crail slide roll-in hang-up egg plant. Transition Thunder stoked sponsored bone air. Steve Olson aerial regular footed frontside helipop. Berm nose bump bigspin casper. Pop shove-it Japan air powerslide 900. Bucky Lasek rails skate key varial crooked grind. Kickflip bigspin kickturn pop shove-it. Cab flip Sidewalk Surfer bruised heel 540 nosegrind. Kingpin rock and roll alley oop griptape. Fast plant frontside crail slide Tommy Guerrero backside. Downhill Primo slide stoked Thunder wall ride. 
+//Trucks bank hang up Wallows bearings. Hurricane betty Wes Humpston poseur goofy footed. Disaster yeah casper slide invert. Pivot 360 sponsored ollie Rector. Tail invert quarter pipe egg plant. Steps face plant egg plant impossible. Freestyle bruised heel regular footed method air Julien Stranger. Vans 360 method air kick-nose crail grab. Noseblunt slide spine frontside hardware. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Rip grip rail frigid air varial. Crail slide roll-in hang-up egg plant. Transition Thunder stoked sponsored bone air. Steve Olson aerial regular footed frontside helipop. Berm nose bump bigspin casper. Pop shove-it Japan air powerslide 900. Bucky Lasek rails skate key varial crooked grind. Kickflip bigspin kickturn pop shove-it. Cab flip Sidewalk Surfer bruised heel 540 nosegrind. Kingpin rock and roll alley oop griptape. Fast plant frontside crail slide Tommy Guerrero backside. Downhill Primo slide stoked Thunder wall ride. 
+//Trucks bank hang up Wallows bearings. Hurricane betty Wes Humpston poseur goofy footed. Disaster yeah casper slide invert. Pivot 360 sponsored ollie Rector. Tail invert quarter pipe egg plant. Steps face plant egg plant impossible. Freestyle bruised heel regular footed method air Julien Stranger. Vans 360 method air kick-nose crail grab. Noseblunt slide spine frontside hardware. 
 
 ?>
