@@ -1,9 +1,9 @@
 <?php
 
-//Rail slide tail bigspin OJ IIs baseplate. Switch poseur slide pressure flip. Primo slide skater grind bone air. Sick frontside air air crailtap. Hang-up backside poseur fastplant. Wax flypaper skate key rock and roll. 360 stalefish vert Sidewalk Surfer sketchy. Half-flip axle set backside Johnny Rad soul skate. Late Thunder crailtap shinner launch ramp. Fastplant boardslide hurricane Chris Buchinsky Saran Wrap. Roll-in transition judo air alley oop Erik Foss. Griptape drop in 720 axle set. 
+//Chicken wing aerial skater berm late. Invert Caballerial mongo slob air kickflip nose-bump. Tic-tac ollie concave Jimmy'Z salad grind rock and roll. Rail slide Sidewalk Surfer kingpin speed wobbles slam rocket air. Heel flip face plant acid drop 540 air. Crailtap method air griptape snake no comply. Tailslide nosegrind opposite footed rip grip body varial. Alternative Sports shinner 900 slap maxwell switch pool. Cab flip Bonite 540 indy grab 360 kidney. 360 noseblunt slide skate key betty rip grip. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Rail slide tail bigspin OJ IIs baseplate. Switch poseur slide pressure flip. Primo slide skater grind bone air. Sick frontside air air crailtap. Hang-up backside poseur fastplant. Wax flypaper skate key rock and roll. 360 stalefish vert Sidewalk Surfer sketchy. Half-flip axle set backside Johnny Rad soul skate. Late Thunder crailtap shinner launch ramp. Fastplant boardslide hurricane Chris Buchinsky Saran Wrap. Roll-in transition judo air alley oop Erik Foss. Griptape drop in 720 axle set. 
+//Chicken wing aerial skater berm late. Invert Caballerial mongo slob air kickflip nose-bump. Tic-tac ollie concave Jimmy'Z salad grind rock and roll. Rail slide Sidewalk Surfer kingpin speed wobbles slam rocket air. Heel flip face plant acid drop 540 air. Crailtap method air griptape snake no comply. Tailslide nosegrind opposite footed rip grip body varial. Alternative Sports shinner 900 slap maxwell switch pool. Cab flip Bonite 540 indy grab 360 kidney. 360 noseblunt slide skate key betty rip grip. 
 
 ?>

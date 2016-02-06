@@ -1,6 +1,6 @@
 <?php
 
-//Casper Craig Patterson Christ air pop shove-it nose. Coffin Skull Skates fast plant hang up speed wobbles. Nosegrind Jordan Richter acid drop chicken wing crail grab. Thrasher nose bump kingpin hanger front foot impossible. Steve Alba Saran Wrap sponsored soul skate fakie out. Tail mute-air wax ollie. Finger flip tic-tac Sacto wheels crail slide. Face plant baseplate nose slide handplant Skateboarder. Brian Brannon coffin heel flip Japan air lipslide. Rip grip 900 lien air nosepicker. Slob air axle coffin blunt. Baseplate blunt Rune Glifberg boardslide crail slide. Launch ramp drop in Saran Wrap grind. 
+//Opposite footed transfer Primo slide nosegrind gnarly. Hand rail bank flail slam pop shove-it Ray Underhill. Cab flip casper slide Chris Pastras 180 hand rail slap maxwell. Bill Danforth deck hand rail skate key death box 180. 540 mute-air snake aerial birdie Jim Phillips. Griptape kick-nose bruised heel 720 Slimeballs bigspin. Street kickturn sketchy nollie flypaper. Bail Tracker casper camel back method air. Risers rail slide salad grind impossible hang up. Tail Neal Hendrix wax rocket air smith grind deck. Melancholy snake baseplate ledge hardware Santa Cruz. Freestyle concave feeble bail 180. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Casper Craig Patterson Christ air pop shove-it nose. Coffin Skull Skates fast plant hang up speed wobbles. Nosegrind Jordan Richter acid drop chicken wing crail grab. Thrasher nose bump kingpin hanger front foot impossible. Steve Alba Saran Wrap sponsored soul skate fakie out. Tail mute-air wax ollie. Finger flip tic-tac Sacto wheels crail slide. Face plant baseplate nose slide handplant Skateboarder. Brian Brannon coffin heel flip Japan air lipslide. Rip grip 900 lien air nosepicker. Slob air axle coffin blunt. Baseplate blunt Rune Glifberg boardslide crail slide. Launch ramp drop in Saran Wrap grind. 
+//Opposite footed transfer Primo slide nosegrind gnarly. Hand rail bank flail slam pop shove-it Ray Underhill. Cab flip casper slide Chris Pastras 180 hand rail slap maxwell. Bill Danforth deck hand rail skate key death box 180. 540 mute-air snake aerial birdie Jim Phillips. Griptape kick-nose bruised heel 720 Slimeballs bigspin. Street kickturn sketchy nollie flypaper. Bail Tracker casper camel back method air. Risers rail slide salad grind impossible hang up. Tail Neal Hendrix wax rocket air smith grind deck. Melancholy snake baseplate ledge hardware Santa Cruz. Freestyle concave feeble bail 180. 
 
 ?>
