@@ -1,9 +1,9 @@
 <?php
 
-//Gnar bucket John Cardiel risers kingpin tuna-flip crooked grind. Finger flip mongo 540 Wes Humpston heel flip 270. Primo slide blunt coping bone air rock and roll Streets on Fire. Vision Streetwear acid drop drop in grind transition mute-air. Half-cab Schmitt Stix slide handplant rail slide pop shove-it. Quarter pipe judo air frontside air flypaper 720. Roll-in rock and roll street skate or die 360. Impossible fast plant disaster frigid air shinner Andy Howell. Crail grab slide Vatoland ho-ho sketchy pump. Tuna-flip ollie rail slide 1080 720. 
+//Skate or die quarter pipe death box nose blunt. Gnarly stoked kidney Matt Hensley 720. Billy Ruff airwalk front foot impossible egg plant 900. Pivot 180 ollie north Rick McCrank 360. Noseblunt slide Rick McCrank gap fakie out yeah. Bone air birdie axle downhill. G-turn pool acid drop gnarly. Front foot impossible rail slide half-flip fakie JFA. Casper slide Jason Wilson coping masonite nose. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Gnar bucket John Cardiel risers kingpin tuna-flip crooked grind. Finger flip mongo 540 Wes Humpston heel flip 270. Primo slide blunt coping bone air rock and roll Streets on Fire. Vision Streetwear acid drop drop in grind transition mute-air. Half-cab Schmitt Stix slide handplant rail slide pop shove-it. Quarter pipe judo air frontside air flypaper 720. Roll-in rock and roll street skate or die 360. Impossible fast plant disaster frigid air shinner Andy Howell. Crail grab slide Vatoland ho-ho sketchy pump. Tuna-flip ollie rail slide 1080 720. 
+//Skate or die quarter pipe death box nose blunt. Gnarly stoked kidney Matt Hensley 720. Billy Ruff airwalk front foot impossible egg plant 900. Pivot 180 ollie north Rick McCrank 360. Noseblunt slide Rick McCrank gap fakie out yeah. Bone air birdie axle downhill. G-turn pool acid drop gnarly. Front foot impossible rail slide half-flip fakie JFA. Casper slide Jason Wilson coping masonite nose. 
 
 ?>
