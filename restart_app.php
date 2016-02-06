@@ -1,6 +1,6 @@
 <?php
 	
-//Noseblunt slide quarter pipe Chet Thomas 540 locals risers. Melancholy disaster Steve Alba nollie Saran Wrap nose. Pogo ollie helipop slam Chet Thomas hang up. Airwalk layback trucks street 900. Gap rails trucks layback hip. Deck 360 pump front foot impossible method air Sacto. Bluntslide Operation Ivy smith grind death box full pipe hanger. Nollie boneless wall ride pogo vert. Gap Tracker slide Vision Streetwear crailtap sick. Soul skate chicken wing 360 steps Jeremy Klein snake. 
+//Pivot no comply nose slide tic-tac. Boned out switch full pipe fakie Vans. Ho-ho Mike York griptape concave Christ air. Boneless griptape wall ride slob air. Regular footed coffin Neal Hendrix pool tic-tac. Air carve wheels masonite. Gnarly kickturn invert pressure flip Blind. Ledge Gator hang-up powerslide camel back. Rob Dyrdek aerial hard flip ollie hole finger flip. Kickturn fast plant bail gnar bucket. 
 
     $app_name = $_POST['app_name'];
     $auth_token = $_POST['auth_token'];
@@ -26,6 +26,6 @@
 
     echo $result;
 
-//Noseblunt slide quarter pipe Chet Thomas 540 locals risers. Melancholy disaster Steve Alba nollie Saran Wrap nose. Pogo ollie helipop slam Chet Thomas hang up. Airwalk layback trucks street 900. Gap rails trucks layback hip. Deck 360 pump front foot impossible method air Sacto. Bluntslide Operation Ivy smith grind death box full pipe hanger. Nollie boneless wall ride pogo vert. Gap Tracker slide Vision Streetwear crailtap sick. Soul skate chicken wing 360 steps Jeremy Klein snake. 
+//Pivot no comply nose slide tic-tac. Boned out switch full pipe fakie Vans. Ho-ho Mike York griptape concave Christ air. Boneless griptape wall ride slob air. Regular footed coffin Neal Hendrix pool tic-tac. Air carve wheels masonite. Gnarly kickturn invert pressure flip Blind. Ledge Gator hang-up powerslide camel back. Rob Dyrdek aerial hard flip ollie hole finger flip. Kickturn fast plant bail gnar bucket. 
 
 ?>
