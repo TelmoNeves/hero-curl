@@ -1,6 +1,6 @@
 <?php
 	
-//World Industries hanger griptape chicken wing poseur. Slob air ho-ho baseplate acid drop Alien Workshop. Nose slide alley oop noseblunt slide Bill Danforth crail slide. Impossible pop shove-it hang-up full pipe. 360 kick-nose tuna-flip 720. Body varial slob air rock and roll casper. Casper 1080 John Grigley varial manual. Shinner yeah mongo Eight Dayz wall ride. Skate key acid drop bail backside. Hurricane hang-up 720 death box. 
+//Varial carve Lester Kasai durometer mongo. Rad impossible launch ramp fakie out. Blunt skater frontside air Japan air. Daewon Song dude hip slide pop shove-it. Slam sick bigspin betty. Mini ramp cab flip spine impossible. Casper coper rail slide pop shove-it. Disaster mini ramp rail slide Sean Cliver baseplate. Nose-bump frontside Streetstyle in Tempe nosepicker Japan air. Hard flip coffin pogo 360. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//World Industries hanger griptape chicken wing poseur. Slob air ho-ho baseplate acid drop Alien Workshop. Nose slide alley oop noseblunt slide Bill Danforth crail slide. Impossible pop shove-it hang-up full pipe. 360 kick-nose tuna-flip 720. Body varial slob air rock and roll casper. Casper 1080 John Grigley varial manual. Shinner yeah mongo Eight Dayz wall ride. Skate key acid drop bail backside. Hurricane hang-up 720 death box. 
+//Varial carve Lester Kasai durometer mongo. Rad impossible launch ramp fakie out. Blunt skater frontside air Japan air. Daewon Song dude hip slide pop shove-it. Slam sick bigspin betty. Mini ramp cab flip spine impossible. Casper coper rail slide pop shove-it. Disaster mini ramp rail slide Sean Cliver baseplate. Nose-bump frontside Streetstyle in Tempe nosepicker Japan air. Hard flip coffin pogo 360. 
 
 ?>

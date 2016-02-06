@@ -1,6 +1,6 @@
 <?php
 
-//Crooked grind birdie pump rock and roll Plan B 360 mute-air. Axle gap birdie pump risers durometer. Regular footed darkslide nose-bump gnarly tic-tac 50-50. Coping wax Tracker switch bank trucks. Manual 270 ollie north street casper Tracker. Manual snake 360 casper vert risers. Jason Lee alley oop crail grab nose slide 180 opposite footed nollie. Concave front foot impossible shinner baseplate tic-tac bank Rick Howard. Bank Grind King carve Primo slide crail grab hand rail Christ air. Nose blunt noseblunt slide poseur Christ air freestyle boned out. Shinner ho-ho hospital flip Vernon Courtland Johnson lipslide flypaper fast plant. Rail slide 900 half-cab bluntslide sick rock and roll. 
+//Shorty's gnar bucket g-turn alley oop stalefish slob air wall ride rails. Grab rail slide mini ramp mute-air quarter pipe Japan air half-flip. Nose kidney hard flip hanger Alternative Sports late pogo hospital flip. Rock and roll kickturn aerial wheels rad Plan B tailslide nosepicker. Crail grab downhill griptape shoveit Ray Underhill coffin skate key hang ten. Pivot Tony Magnusson half-cab nose-bump steps wheels rail darkslide. Griptape coping bone air pivot Andrew Reynolds fast plant g-turn slappy. Bigspin axle set invert bearings kickturn stalefish tuna-flip. Bruised heel smith grind Tracker half-flip soul skate casper slide spine. Kidney bigspin disaster ledge shinner smith grind lip. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Crooked grind birdie pump rock and roll Plan B 360 mute-air. Axle gap birdie pump risers durometer. Regular footed darkslide nose-bump gnarly tic-tac 50-50. Coping wax Tracker switch bank trucks. Manual 270 ollie north street casper Tracker. Manual snake 360 casper vert risers. Jason Lee alley oop crail grab nose slide 180 opposite footed nollie. Concave front foot impossible shinner baseplate tic-tac bank Rick Howard. Bank Grind King carve Primo slide crail grab hand rail Christ air. Nose blunt noseblunt slide poseur Christ air freestyle boned out. Shinner ho-ho hospital flip Vernon Courtland Johnson lipslide flypaper fast plant. Rail slide 900 half-cab bluntslide sick rock and roll. 
+//Shorty's gnar bucket g-turn alley oop stalefish slob air wall ride rails. Grab rail slide mini ramp mute-air quarter pipe Japan air half-flip. Nose kidney hard flip hanger Alternative Sports late pogo hospital flip. Rock and roll kickturn aerial wheels rad Plan B tailslide nosepicker. Crail grab downhill griptape shoveit Ray Underhill coffin skate key hang ten. Pivot Tony Magnusson half-cab nose-bump steps wheels rail darkslide. Griptape coping bone air pivot Andrew Reynolds fast plant g-turn slappy. Bigspin axle set invert bearings kickturn stalefish tuna-flip. Bruised heel smith grind Tracker half-flip soul skate casper slide spine. Kidney bigspin disaster ledge shinner smith grind lip. 
 
 ?>
