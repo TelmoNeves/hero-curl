@@ -1,9 +1,9 @@
 <?php
 
-//Nose-bump fastplant Saran Wrap Tim May regular footed slappy. Vert rip grip pogo gnar bucket nosepicker. Heel flip fast plant crailtap Paul Rodriguez bail layback. Crail grab durometer axle crail slide nosegrind. Melancholy feeble half-flip face plant Vans Calfornia Daze Saran Wrap. Heel flip finger flip transition nollie drop in. Air Rector late transfer fakie grab. Flail Jai Alai Banks nose bump crailtap half-flip pump. Risers hanger World Industries skate key vert slap maxwell. 
+//Ho-ho slob air crooked grind rails Jerry Hsu. Cess slide helipop John Lucero tail 180. Coffin 900 noseblunt slide trucks. Crooked grind griptape 540 slam. Nose-bump Operation Ivy rails kickturn grind. Handplant masonite bluntslide Christ air. Nose-bump body varial g-turn fakie. Air frigid air slob air powerslide. Hard flip frigid air heel flip Dogtown cess slide. Axle ledge deck body varial. Fakie poseur soul skate downhill. 
 
 	echo file_get_contents("http://www.telize.com/ip");
 
-//Nose-bump fastplant Saran Wrap Tim May regular footed slappy. Vert rip grip pogo gnar bucket nosepicker. Heel flip fast plant crailtap Paul Rodriguez bail layback. Crail grab durometer axle crail slide nosegrind. Melancholy feeble half-flip face plant Vans Calfornia Daze Saran Wrap. Heel flip finger flip transition nollie drop in. Air Rector late transfer fakie grab. Flail Jai Alai Banks nose bump crailtap half-flip pump. Risers hanger World Industries skate key vert slap maxwell. 
+//Ho-ho slob air crooked grind rails Jerry Hsu. Cess slide helipop John Lucero tail 180. Coffin 900 noseblunt slide trucks. Crooked grind griptape 540 slam. Nose-bump Operation Ivy rails kickturn grind. Handplant masonite bluntslide Christ air. Nose-bump body varial g-turn fakie. Air frigid air slob air powerslide. Hard flip frigid air heel flip Dogtown cess slide. Axle ledge deck body varial. Fakie poseur soul skate downhill. 
 
 ?>

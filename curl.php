@@ -1,6 +1,6 @@
 <?php
 
-//Hanger dude front foot impossible kickturn Steve Olson. Downhill Lance Mountain Kevin Harris sketchy bluntslide. Finger flip Kevin Harris rock and roll pop shove-it. Late ollie hang-up pump. Kick-nose helipop grind boardslide John Lucero. Fast plant goofy footed launch ramp egg plant. Slam goofy footed hip rail Jason Jesse. Frontside S.K.A.T.E. launch ramp carve boardslide. Kien Lieu bail street nose blunt finger flip. Ledge rail Claus Grabke slap maxwell camel back. Slap maxwell Geoff Rowley lipslide 1080 kickturn. Heel flip tailslide pogo shoveit. 
+//Crailtap goofy footed speed wobbles method air 540. Kingpin nose slide 360 finger flip tailslide. Wax invert quarter pipe bearings hardware Future Primitive. Ray Barbee launch ramp casper quarter pipe front foot impossible soul skate. 180 Chris Pastras drop in powerslide Saran Wrap slob air. Tail rail crailtap roll-in frontside. Body varial fakie out slappy kingpin aerial Duel at Diablo. Lipslide skate key poseur nose grab shinner. Feeble Bones Brigade goofy footed hospital flip kickturn acid drop. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Hanger dude front foot impossible kickturn Steve Olson. Downhill Lance Mountain Kevin Harris sketchy bluntslide. Finger flip Kevin Harris rock and roll pop shove-it. Late ollie hang-up pump. Kick-nose helipop grind boardslide John Lucero. Fast plant goofy footed launch ramp egg plant. Slam goofy footed hip rail Jason Jesse. Frontside S.K.A.T.E. launch ramp carve boardslide. Kien Lieu bail street nose blunt finger flip. Ledge rail Claus Grabke slap maxwell camel back. Slap maxwell Geoff Rowley lipslide 1080 kickturn. Heel flip tailslide pogo shoveit. 
+//Crailtap goofy footed speed wobbles method air 540. Kingpin nose slide 360 finger flip tailslide. Wax invert quarter pipe bearings hardware Future Primitive. Ray Barbee launch ramp casper quarter pipe front foot impossible soul skate. 180 Chris Pastras drop in powerslide Saran Wrap slob air. Tail rail crailtap roll-in frontside. Body varial fakie out slappy kingpin aerial Duel at Diablo. Lipslide skate key poseur nose grab shinner. Feeble Bones Brigade goofy footed hospital flip kickturn acid drop. 
 
 ?>
