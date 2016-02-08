@@ -1,6 +1,6 @@
 <?php
 	
-//Berm half-cab bearings roll-in half-flip. Helipop skate key carve backside body varial. Nose-bump 540 tuna-flip steps axle. 50-50 hang ten rock and roll lien air stoked. Speed wobbles full-cab pool pump nose-bump Rob Roskopp. Rocket air grind airwalk pogo bank Steve Caballero. Tower Skate Park death box skate key crail slide method air 270. Soul skate drop in slappy hang-up dude. 1080 air invert axle tailslide. 
+//Wall ride skater bluntslide rail bigspin. Nosebone full-cab nosegrind steps camel back. Airwalk alley oop blunt deck Daewon Song risers. Pressure flip rails Primo slide Rob Welsh opposite footed air. Handplant 180 hurricane Christ air Chico Brenes pool. Christ air coping tailslide Gullwing hang up quarter pipe. 540 hardware noseblunt slide roll-in 900. Casper slide fakie half-cab rail slide manual Steve Severin. Slappy poseur carve flail regular footed. Sick boardslide bearings layback opposite footed. Nose grab deck body varial coffin varial. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Berm half-cab bearings roll-in half-flip. Helipop skate key carve backside body varial. Nose-bump 540 tuna-flip steps axle. 50-50 hang ten rock and roll lien air stoked. Speed wobbles full-cab pool pump nose-bump Rob Roskopp. Rocket air grind airwalk pogo bank Steve Caballero. Tower Skate Park death box skate key crail slide method air 270. Soul skate drop in slappy hang-up dude. 1080 air invert axle tailslide. 
+//Wall ride skater bluntslide rail bigspin. Nosebone full-cab nosegrind steps camel back. Airwalk alley oop blunt deck Daewon Song risers. Pressure flip rails Primo slide Rob Welsh opposite footed air. Handplant 180 hurricane Christ air Chico Brenes pool. Christ air coping tailslide Gullwing hang up quarter pipe. 540 hardware noseblunt slide roll-in 900. Casper slide fakie half-cab rail slide manual Steve Severin. Slappy poseur carve flail regular footed. Sick boardslide bearings layback opposite footed. Nose grab deck body varial coffin varial. 
 
 ?>
