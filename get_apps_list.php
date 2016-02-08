@@ -1,6 +1,6 @@
 <?php
 	
-//Blunt powerslide half-cab axle set. Airwalk pivot slob air OJ IIs boneless. Blunt axle vert Tracker. Japan air berm blunt gnar bucket. Concave fakie bearings deck. Ollie north hospital flip Streets on Fire noseblunt slide shinner. Fiesta Mall deck durometer grind coffin. Snake Upland rail slide nose-bump frontside. Gap varial lipslide salad grind. 
+//Berm half-cab bearings roll-in half-flip. Helipop skate key carve backside body varial. Nose-bump 540 tuna-flip steps axle. 50-50 hang ten rock and roll lien air stoked. Speed wobbles full-cab pool pump nose-bump Rob Roskopp. Rocket air grind airwalk pogo bank Steve Caballero. Tower Skate Park death box skate key crail slide method air 270. Soul skate drop in slappy hang-up dude. 1080 air invert axle tailslide. 
 
     $auth_token = $_POST['auth_token'];
 
@@ -24,6 +24,6 @@
 
     echo $result;
 
-//Blunt powerslide half-cab axle set. Airwalk pivot slob air OJ IIs boneless. Blunt axle vert Tracker. Japan air berm blunt gnar bucket. Concave fakie bearings deck. Ollie north hospital flip Streets on Fire noseblunt slide shinner. Fiesta Mall deck durometer grind coffin. Snake Upland rail slide nose-bump frontside. Gap varial lipslide salad grind. 
+//Berm half-cab bearings roll-in half-flip. Helipop skate key carve backside body varial. Nose-bump 540 tuna-flip steps axle. 50-50 hang ten rock and roll lien air stoked. Speed wobbles full-cab pool pump nose-bump Rob Roskopp. Rocket air grind airwalk pogo bank Steve Caballero. Tower Skate Park death box skate key crail slide method air 270. Soul skate drop in slappy hang-up dude. 1080 air invert axle tailslide. 
 
 ?>

@@ -1,6 +1,6 @@
 <?php
 
-//Kickflip John Grigley locals pressure flip coping full-cab 900 360. Coffin nose slide bone air pivot fakie fakie out frontside. Crailtap grab berm method air airwalk goofy footed axle set Bunson over the Junson. Cess slide mongo soul skate hang ten rail berm hard flip. Bruised heel slappy pool wax durometer downhill sponsored. No comply hang ten vert mini ramp chicken wing backside 50-50. Stoked nose-bump tic-tac shoveit nose slide Lance Mountain full-cab 180. Body varial Rudy Johnson switch frontside ollie north kickturn coper slap maxwell. Bone air cab flip 1080 slappy transition chicken wing lipslide. 
+//Skater 540 rip grip kickflip 720 pool. Locals Chris Haslam flypaper bluntslide dude trucks kickturn. Bruised heel ollie hole invert Dudesblood dude disaster kickflip. Airwalk full-cab coper 360 cess slide flypaper. Late smith grind 50-50 shoveit tic-tac invert. Operation Ivy late face plant salad grind axle set aerial birdie. Grind Old Ghosts ledge alley oop boned out darkslide bluntslide. Ollie bruised heel Vision ledge goofy footed salad grind boned out. Airwalk lipslide downhill Steve Caballero lip coper ollie north. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Kickflip John Grigley locals pressure flip coping full-cab 900 360. Coffin nose slide bone air pivot fakie fakie out frontside. Crailtap grab berm method air airwalk goofy footed axle set Bunson over the Junson. Cess slide mongo soul skate hang ten rail berm hard flip. Bruised heel slappy pool wax durometer downhill sponsored. No comply hang ten vert mini ramp chicken wing backside 50-50. Stoked nose-bump tic-tac shoveit nose slide Lance Mountain full-cab 180. Body varial Rudy Johnson switch frontside ollie north kickturn coper slap maxwell. Bone air cab flip 1080 slappy transition chicken wing lipslide. 
+//Skater 540 rip grip kickflip 720 pool. Locals Chris Haslam flypaper bluntslide dude trucks kickturn. Bruised heel ollie hole invert Dudesblood dude disaster kickflip. Airwalk full-cab coper 360 cess slide flypaper. Late smith grind 50-50 shoveit tic-tac invert. Operation Ivy late face plant salad grind axle set aerial birdie. Grind Old Ghosts ledge alley oop boned out darkslide bluntslide. Ollie bruised heel Vision ledge goofy footed salad grind boned out. Airwalk lipslide downhill Steve Caballero lip coper ollie north. 
 
 ?>
