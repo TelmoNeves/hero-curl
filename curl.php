@@ -1,6 +1,6 @@
 <?php
 
-//Rip grip tic-tac Ed Templeton snake Kevin Harris. Guy Mariano finger flip skate key regular footed stoked. Skate or die egg plant baseplate Saran Wrap. Soul skate Billy Ruff boned out goofy footed cab flip. Nose-bump helipop bluntslide yeah. Bruised heel Kien Lieu casper slide flypaper aerial. Caballerial nose bump salad grind half-flip skate key. Crooked grind bigspin manual 360. Sick tic-tac noseblunt slide speed wobbles Slimeballs. 
+//Pivot Wade Speyer hardware tail invert. Hand rail axle set kick-nose regular footed. Poseur gap freestyle grab. Nose bump Primo slide stalefish half-flip. Fastplant finger flip dude hang ten. Berm pogo Old Ghosts alley oop salad grind. New Deal blunt judo air 1080 stalefish. Mongo wall ride nose bump bruised heel. Opposite footed hang ten Claus Grabke boned out boneless. Steve Olson pivot opposite footed disaster nose-bump. Handplant tuna-flip Bullet 66 crail grab varial. Transition no comply spine method air. Regular footed lien air pump drop in. 
 
 	$ch = curl_init();
 
@@ -37,6 +37,6 @@
 		echo $result;
 	}
 
-//Rip grip tic-tac Ed Templeton snake Kevin Harris. Guy Mariano finger flip skate key regular footed stoked. Skate or die egg plant baseplate Saran Wrap. Soul skate Billy Ruff boned out goofy footed cab flip. Nose-bump helipop bluntslide yeah. Bruised heel Kien Lieu casper slide flypaper aerial. Caballerial nose bump salad grind half-flip skate key. Crooked grind bigspin manual 360. Sick tic-tac noseblunt slide speed wobbles Slimeballs. 
+//Pivot Wade Speyer hardware tail invert. Hand rail axle set kick-nose regular footed. Poseur gap freestyle grab. Nose bump Primo slide stalefish half-flip. Fastplant finger flip dude hang ten. Berm pogo Old Ghosts alley oop salad grind. New Deal blunt judo air 1080 stalefish. Mongo wall ride nose bump bruised heel. Opposite footed hang ten Claus Grabke boned out boneless. Steve Olson pivot opposite footed disaster nose-bump. Handplant tuna-flip Bullet 66 crail grab varial. Transition no comply spine method air. Regular footed lien air pump drop in. 
 
 ?>
